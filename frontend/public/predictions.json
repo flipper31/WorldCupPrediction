@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2026-06-11T16:00:00Z",
+  "model": "Demo (noch keine AI)",
+  "demo": true,
+  "matches": [
+    {
+      "id": "demo-1",
+      "group": "Gruppe A",
+      "kickoff": "2026-06-11T20:00:00-06:00",
+      "home": { "name": "Mexiko", "flag": "🇲🇽" },
+      "away": { "name": "Südafrika", "flag": "🇿🇦" },
+      "prediction": {
+        "score": { "home": 2, "away": 0 },
+        "confidence": 68,
+        "expectedStats": {
+          "possession": { "home": 58, "away": 42 },
+          "shots": { "home": 14, "away": 7 },
+          "shotsOnTarget": { "home": 6, "away": 2 },
+          "corners": { "home": 7, "away": 3 }
+        },
+        "reasoning": "Mexiko spielt das Eröffnungsspiel im Estadio Azteca vor Heimpublikum — ein enormer Vorteil. Die Statistiken der letzten Spiele zeigen deutlich mehr Torschüsse und höheren Ballbesitz als beim Gegner. Südafrika dürfte tief stehen und auf Konter lauern, aber die Offensivqualität von Mexiko sollte sich durchsetzen. [DEMO-DATEN: Dieser Text wird später von der echten AI auf Basis echter API-Football-Statistiken generiert.]"
+      }
+    },
+    {
+      "id": "demo-2",
+      "group": "Gruppe B",
+      "kickoff": "2026-06-12T18:00:00-04:00",
+      "home": { "name": "Kanada", "flag": "🇨🇦" },
+      "away": { "name": "Norwegen", "flag": "🇳🇴" },
+      "prediction": {
+        "score": { "home": 1, "away": 2 },
+        "confidence": 55,
+        "expectedStats": {
+          "possession": { "home": 52, "away": 48 },
+          "shots": { "home": 11, "away": 12 },
+          "shotsOnTarget": { "home": 3, "away": 5 },
+          "corners": { "home": 5, "away": 4 }
+        },
+        "reasoning": "Ein Beispiel für genau dein Szenario: Kanada wird vermutlich mehr Ballbesitz haben, aber Norwegens Sturm ist deutlich kaltschnäuziger — mehr Schüsse aufs Tor bei weniger Spielanteilen. Effizienz schlägt Dominanz. [DEMO-DATEN]"
+      }
+    },
+    {
+      "id": "demo-3",
+      "group": "Gruppe D",
+      "kickoff": "2026-06-12T15:00:00-07:00",
+      "home": { "name": "USA", "flag": "🇺🇸" },
+      "away": { "name": "Paraguay", "flag": "🇵🇾" },
+      "prediction": {
+        "score": { "home": 2, "away": 1 },
+        "confidence": 61,
+        "expectedStats": {
+          "possession": { "home": 55, "away": 45 },
+          "shots": { "home": 13, "away": 9 },
+          "shotsOnTarget": { "home": 5, "away": 3 },
+          "corners": { "home": 6, "away": 4 }
+        },
+        "reasoning": "Die USA als Co-Gastgeber mit Heimvorteil und der athletischeren Mannschaft. Paraguay verteidigt traditionell stark und kompakt, weshalb die Confidence nur bei 61% liegt — ein frühes Gegentor könnte das Spiel kippen. [DEMO-DATEN]"
+      }
+    },
+    {
+      "id": "demo-4",
+      "group": "Gruppe E",
+      "kickoff": "2026-06-13T12:00:00-04:00",
+      "home": { "name": "Deutschland", "flag": "🇩🇪" },
+      "away": { "name": "Curaçao", "flag": "🇨🇼" },
+      "prediction": {
+        "score": { "home": 4, "away": 0 },
+        "confidence": 82,
+        "expectedStats": {
+          "possession": { "home": 68, "away": 32 },
+          "shots": { "home": 19, "away": 4 },
+          "shotsOnTarget": { "home": 9, "away": 1 },
+          "corners": { "home": 9, "away": 1 }
+        },
+        "reasoning": "Klares Kräfteungleichgewicht: Deutschland dominiert in allen statistischen Kategorien — Kadertiefe, Marktwert, Turniererfahrung. Curaçao ist der krasse Außenseiter und wird kaum zu Torchancen kommen. Hohe Confidence, weil die Daten hier eindeutig sind. [DEMO-DATEN]"
+      }
+    },
+    {
+      "id": "demo-5",
+      "group": "Gruppe F",
+      "kickoff": "2026-06-13T17:00:00-05:00",
+      "home": { "name": "Argentinien", "flag": "🇦🇷" },
+      "away": { "name": "Tunesien", "flag": "🇹🇳" },
+      "prediction": {
+        "score": { "home": 3, "away": 0 },
+        "confidence": 74,
+        "expectedStats": {
+          "possession": { "home": 63, "away": 37 },
+          "shots": { "home": 16, "away": 6 },
+          "shotsOnTarget": { "home": 7, "away": 2 },
+          "corners": { "home": 8, "away": 2 }
+        },
+        "reasoning": "Der amtierende Weltmeister mit eingespieltem System. Tunesien hat zwar 2022 gegen Frankreich gewonnen, aber die Daten über die letzten zwei Jahre sprechen klar für Argentinien: deutlich mehr erwartete Torschüsse und Chancenqualität. [DEMO-DATEN]"
+      }
+    },
+    {
+      "id": "demo-6",
+      "group": "Gruppe G",
+      "kickoff": "2026-06-14T14:00:00-04:00",
+      "home": { "name": "Brasilien", "flag": "🇧🇷" },
+      "away": { "name": "Marokko", "flag": "🇲🇦" },
+      "prediction": {
+        "score": { "home": 1, "away": 1 },
+        "confidence": 48,
+        "expectedStats": {
+          "possession": { "home": 57, "away": 43 },
+          "shots": { "home": 12, "away": 10 },
+          "shotsOnTarget": { "home": 4, "away": 4 },
+          "corners": { "home": 6, "away": 5 }
+        },
+        "reasoning": "Das engste Spiel der Auswahl: Brasilien hat mehr individuelles Talent, aber Marokko ist seit Jahren defensiv eine Macht (WM-Halbfinale 2022) und lässt extrem wenig Schüsse aufs eigene Tor zu. Niedrige Confidence — ein Unentschieden ist hier statistisch das wahrscheinlichste Einzelergebnis. [DEMO-DATEN]"
+      }
+    }
+  ]
+}

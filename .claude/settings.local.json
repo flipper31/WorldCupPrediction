@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:apify.com)",
+      "WebFetch(domain:www.api-football.com)",
+      "WebFetch(domain:rapidapi.com)",
+      "WebFetch(domain:api-sports.io)",
+      "WebFetch(domain:dashboard.api-football.com)",
+      "WebFetch(domain:apifootball.com)",
+      "WebSearch",
+      "WebFetch(domain:www.postman.com)",
+      "Bash(ls \"C:\\\\Users\\\\phill\\\\.claude\\\\\" 2>/dev/null || echo \"not found\")",
+      "Bash(ls \"C:\\\\Users\\\\phill\\\\AppData\\\\Local\\\\Packages\\\\Claude_pzs8sxrjxfjjc\\\\LocalCache\\\\Roaming\\\\Claude\\\\\" 2>/dev/null | head -20)",
+      "PowerShell(& \"C:\\\\Users\\\\phill\\\\AppData\\\\Roaming\\\\Claude\\\\claude-code\\\\2.1.87\\\\claude.exe\" --version 2>&1)",
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "Bash(ssh root@192.168.178.252 \"pct exec 110 -- bash -c 'ip -4 addr show eth0 | grep inet; ls /data/nginx/; ss -tlnp | grep LISTEN | head -20'\")"
+    ]
+  }
+}
