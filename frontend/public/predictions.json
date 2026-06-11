@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T18:01:47.583Z",
+  "generatedAt": "2026-06-11T18:44:11.879Z",
   "model": "Claude (Datenbasis: Flashscore-Scrape 11.6.2026)",
   "demo": false,
   "matches": [
@@ -212,29 +212,29 @@
       },
       "prediction": {
         "score": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
-        "confidence": 45,
+        "confidence": 54,
         "expectedStats": {
           "possession": {
             "home": 56,
             "away": 44
           },
           "shots": {
-            "home": 12,
-            "away": 9
+            "home": 13,
+            "away": 8
           },
           "shotsOnTarget": {
-            "home": 4,
-            "away": 4
+            "home": 5,
+            "away": 3
           },
           "corners": {
             "home": 6,
             "away": 4
           }
         },
-        "reasoning": "Der Kracher des ersten Spieltags im MetLife Stadium. Brasilien hat unter Ancelotti mehr individuelle Klasse, aber Marokko ist seit dem WM-Halbfinale 2022 defensiv eine Macht — die Atlas-Löwen lassen historisch wenig Schüsse aufs eigene Tor zu und haben Marokko 2023 bereits ein Testspiel gegen Brasilien gewonnen (2:1). Niedrige Confidence: Hier ist alles drin."
+        "reasoning": "Der Kracher des ersten Spieltags im MetLife Stadium. Marokko ist defensiv weiter top organisiert, aber die Wettquoten favorisieren Brasilien deutlich — und Quoten sind der beste aggregierte Prädiktor. Brasiliens individuelle Klasse um Vinicius und Rodrygo bricht auch tiefe Abwehrblöcke; das marokkanische 2:1 im Testspiel 2023 ist drei Jahre her und kaum noch aussagekräftig. Knapper Favoritensieg in einem engen Spiel."
       }
     },
     {
