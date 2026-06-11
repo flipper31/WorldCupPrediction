@@ -4,9 +4,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate": "node generate-predictions.mjs"
-  },
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.39.0"
+    "fetch": "node fetch-data.mjs"
   }
 }

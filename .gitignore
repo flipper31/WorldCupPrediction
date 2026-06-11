@@ -3,3 +3,6 @@ dist/
 *.tar.gz
 .env
 .env.local
+
+# Flashscore-Scraper (geklontes Repo, siehe README)
+scraper/

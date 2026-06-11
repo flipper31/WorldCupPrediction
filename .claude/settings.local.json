@@ -14,7 +14,20 @@
       "PowerShell(& \"C:\\\\Users\\\\phill\\\\AppData\\\\Roaming\\\\Claude\\\\claude-code\\\\2.1.87\\\\claude.exe\" --version 2>&1)",
       "Skill(claude-api)",
       "Skill(claude-api:*)",
-      "Bash(ssh root@192.168.178.252 \"pct exec 110 -- bash -c 'ip -4 addr show eth0 | grep inet; ls /data/nginx/; ss -tlnp | grep LISTEN | head -20'\")"
+      "Bash(ssh root@192.168.178.252 \"pct exec 110 -- bash -c 'ip -4 addr show eth0 | grep inet; ls /data/nginx/; ss -tlnp | grep LISTEN | head -20'\")",
+      "WebFetch(domain:www.football-data.org)",
+      "Bash(curl -s --max-time 20 -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/125.0 Safari/537.36\" \"https://www.api-football.com/news/post/fifa-world-cup-2026-guide-to-using-data-with-api-sports\")",
+      "Bash(grep -iA3 -iB3 -E \"free|plan|season\")",
+      "Bash(curl -s --max-time 25 \"https://r.jina.ai/https://www.api-football.com/news/post/fifa-world-cup-2026-guide-to-using-data-with-api-sports\")",
+      "mcp__Claude_in_Chrome__tabs_create_mcp",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__get_page_text",
+      "WebFetch(domain:fifa.balldontlie.io)",
+      "Bash(curl -s --max-time 15 \"https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json\")",
+      "Bash(curl -s --max-time 15 \"https://api.football-data.org/v4/competitions/WC/matches\")",
+      "PowerShell(Get-Process -Name \"node\",\"npx\" -ErrorAction SilentlyContinue | Select-Object Name, Id, CPU, StartTime; Test-Path \"$env:LOCALAPPDATA\\\\ms-playwright\")",
+      "PowerShell($deadline = \\(Get-Date\\).AddSeconds\\(90\\); while \\(\\(Get-Date\\) -lt $deadline\\) { if \\(Test-Path \"$env:LOCALAPPDATA\\\\ms-playwright\\\\chromium-1194\\\\chrome-win\\\\chrome.exe\"\\) { Write-Output \"FERTIG\"; break }; Start-Sleep -Seconds 5 }; Test-Path \"$env:LOCALAPPDATA\\\\ms-playwright\\\\chromium-1194\\\\chrome-win\\\\chrome.exe\")"
     ]
   }
 }
