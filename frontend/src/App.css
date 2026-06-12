@@ -129,6 +129,50 @@ header h1 {
   color: var(--text-dim);
 }
 
+.score.actual {
+  color: var(--text);
+}
+
+.score-pred {
+  font-size: 0.8rem;
+  color: var(--accent2);
+  margin-top: 0.2rem;
+}
+
+.hit-badge {
+  text-align: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-radius: 6px;
+  padding: 0.35rem 0.6rem;
+  margin-bottom: 0.3rem;
+}
+
+.hit-exakt {
+  background: rgba(46, 160, 67, 0.18);
+  color: #3fb950;
+}
+
+.hit-tendenz {
+  background: rgba(88, 166, 255, 0.15);
+  color: var(--accent2);
+}
+
+.hit-daneben {
+  background: rgba(248, 81, 73, 0.15);
+  color: #f85149;
+}
+
+.bilanz {
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  display: inline-block;
+}
+
 .confidence {
   display: flex;
   align-items: center;

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T18:44:11.879Z",
+  "generatedAt": "2026-06-12T19:23:12.187Z",
   "model": "Claude (Datenbasis: Flashscore-Scrape 11.6.2026)",
   "demo": false,
   "matches": [
@@ -40,6 +40,30 @@
           }
         },
         "reasoning": "Eröffnungsspiel im Estadio Banorte vor 87.000 Heimfans — ein massiver Vorteil für Mexiko. El Tri hat deutlich mehr individuelle Klasse und Turniererfahrung, während Südafrika defensiv kompakt stehen, aber offensiv kaum Akzente setzen dürfte. Mexiko hat bei Heim-WMs (1970, 1986) immer mindestens das Viertelfinale erreicht."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "shots": {
+            "home": 16,
+            "away": 3
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -79,6 +103,30 @@
           }
         },
         "reasoning": "Ausgeglichenes Duell zweier Teams auf ähnlichem Niveau. Südkorea um Kapitän Son Heung-min hat mehr Tempo im Umschaltspiel, Tschechien ist physisch stark und bei Standards gefährlich. Die niedrige Confidence spiegelt wider, dass hier Kleinigkeiten entscheiden — ein Remis ist statistisch das wahrscheinlichste Einzelergebnis."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "shots": {
+            "home": 15,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {

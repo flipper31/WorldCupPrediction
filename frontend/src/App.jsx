@@ -31,10 +31,27 @@ function StatRow({ label, home, away, isPercent }) {
   )
 }
 
+// exakt | tendenz | daneben — Vergleich Prognose vs. echtes Ergebnis
+function hitType(prediction, actual) {
+  if (!actual) return null
+  const p = prediction.score
+  const a = actual.score
+  if (p.home === a.home && p.away === a.away) return 'exakt'
+  if (Math.sign(p.home - p.away) === Math.sign(a.home - a.away)) return 'tendenz'
+  return 'daneben'
+}
+
+const HIT_LABEL = {
+  exakt: '🎯 Exakt getroffen',
+  tendenz: '✅ Tendenz richtig',
+  daneben: '❌ Daneben',
+}
+
 function MatchCard({ match }) {
   const [expanded, setExpanded] = useState(false)
-  const { home, away, prediction, kickoff, group } = match
+  const { home, away, prediction, actual, kickoff, group } = match
   const date = new Date(kickoff)
+  const hit = hitType(prediction, actual)
 
   return (
     <div className="match-card" onClick={() => setExpanded(!expanded)}>
@@ -53,8 +70,18 @@ function MatchCard({ match }) {
           <span className="team-name">{home.name}</span>
         </div>
         <div className="match-score">
-          <span className="score">{prediction.score.home} : {prediction.score.away}</span>
-          <span className="score-tag">Prognose</span>
+          {actual ? (
+            <>
+              <span className="score actual">{actual.score.home} : {actual.score.away}</span>
+              <span className="score-tag">Endstand</span>
+              <span className="score-pred">Tipp: {prediction.score.home} : {prediction.score.away}</span>
+            </>
+          ) : (
+            <>
+              <span className="score">{prediction.score.home} : {prediction.score.away}</span>
+              <span className="score-tag">Prognose</span>
+            </>
+          )}
         </div>
         <div className="team">
           <span className="team-flag">{away.flag}</span>
@@ -62,13 +89,24 @@ function MatchCard({ match }) {
         </div>
       </div>
 
-      <ConfidenceBar value={prediction.confidence} />
+      {hit && <div className={`hit-badge hit-${hit}`}>{HIT_LABEL[hit]}</div>}
+
+      {!actual && <ConfidenceBar value={prediction.confidence} />}
 
       {expanded && (
         <div className="match-details">
+          {actual?.stats && actual.stats.possession.home != null && (
+            <div className="stats-block">
+              <h4>Tatsächliche Statistiken (Flashscore)</h4>
+              <StatRow label="Ballbesitz" home={actual.stats.possession.home} away={actual.stats.possession.away} isPercent />
+              <StatRow label="Torschüsse" home={actual.stats.shots.home} away={actual.stats.shots.away} />
+              <StatRow label="Schüsse aufs Tor" home={actual.stats.shotsOnTarget.home} away={actual.stats.shotsOnTarget.away} />
+              <StatRow label="Ecken" home={actual.stats.corners.home} away={actual.stats.corners.away} />
+            </div>
+          )}
           {prediction.expectedStats && (
             <div className="stats-block">
-              <h4>Erwartete Statistiken</h4>
+              <h4>{actual ? 'Erwartete Statistiken (Prognose)' : 'Erwartete Statistiken'}</h4>
               <StatRow label="Ballbesitz" home={prediction.expectedStats.possession.home} away={prediction.expectedStats.possession.away} isPercent />
               <StatRow label="Torschüsse" home={prediction.expectedStats.shots.home} away={prediction.expectedStats.shots.away} />
               <StatRow label="Schüsse aufs Tor" home={prediction.expectedStats.shotsOnTarget.home} away={prediction.expectedStats.shotsOnTarget.away} />
@@ -104,6 +142,13 @@ export default function App() {
   if (error) return <div className="status">Fehler beim Laden der Predictions: {error}</div>
   if (!data) return <div className="status">Lade Predictions…</div>
 
+  const finished = data.matches.filter((m) => m.actual)
+  const bilanz = {
+    exakt: finished.filter((m) => hitType(m.prediction, m.actual) === 'exakt').length,
+    tendenz: finished.filter((m) => hitType(m.prediction, m.actual) === 'tendenz').length,
+    daneben: finished.filter((m) => hitType(m.prediction, m.actual) === 'daneben').length,
+  }
+
   return (
     <div className="app">
       <header>
@@ -120,6 +165,12 @@ export default function App() {
         <p className="generated">
           Stand: {new Date(data.generatedAt).toLocaleString('de-DE')} · Modell: {data.model}
         </p>
+        {finished.length > 0 && (
+          <div className="bilanz">
+            <strong>AI-Bilanz:</strong> 🎯 {bilanz.exakt} exakt · ✅ {bilanz.tendenz} Tendenz · ❌ {bilanz.daneben} daneben
+            {' '}({finished.length} {finished.length === 1 ? 'Spiel' : 'Spiele'} gewertet)
+          </div>
+        )}
       </header>
 
       <main>

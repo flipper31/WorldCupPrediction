@@ -27,7 +27,11 @@
       "Bash(curl -s --max-time 15 \"https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json\")",
       "Bash(curl -s --max-time 15 \"https://api.football-data.org/v4/competitions/WC/matches\")",
       "PowerShell(Get-Process -Name \"node\",\"npx\" -ErrorAction SilentlyContinue | Select-Object Name, Id, CPU, StartTime; Test-Path \"$env:LOCALAPPDATA\\\\ms-playwright\")",
-      "PowerShell($deadline = \\(Get-Date\\).AddSeconds\\(90\\); while \\(\\(Get-Date\\) -lt $deadline\\) { if \\(Test-Path \"$env:LOCALAPPDATA\\\\ms-playwright\\\\chromium-1194\\\\chrome-win\\\\chrome.exe\"\\) { Write-Output \"FERTIG\"; break }; Start-Sleep -Seconds 5 }; Test-Path \"$env:LOCALAPPDATA\\\\ms-playwright\\\\chromium-1194\\\\chrome-win\\\\chrome.exe\")"
+      "PowerShell($deadline = \\(Get-Date\\).AddSeconds\\(90\\); while \\(\\(Get-Date\\) -lt $deadline\\) { if \\(Test-Path \"$env:LOCALAPPDATA\\\\ms-playwright\\\\chromium-1194\\\\chrome-win\\\\chrome.exe\"\\) { Write-Output \"FERTIG\"; break }; Start-Sleep -Seconds 5 }; Test-Path \"$env:LOCALAPPDATA\\\\ms-playwright\\\\chromium-1194\\\\chrome-win\\\\chrome.exe\")",
+      "Bash(ssh root@192.168.178.252 \"pct push 110 /tmp/worldcup-dist.tar.gz /tmp/worldcup-dist.tar.gz && pct exec 110 -- bash -c 'tar -xzf /tmp/worldcup-dist.tar.gz -C /var/www/worldcup'\")",
+      "Bash(curl -s http://192.168.178.135:8181/predictions.json)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://192.168.178.135:8181/)",
+      "mcp__scheduled-tasks__list_scheduled_tasks"
     ]
   }
 }
