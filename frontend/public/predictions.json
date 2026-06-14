@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T19:23:12.187Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape 11.6.2026)",
+  "generatedAt": "2026-06-14T21:19:07.718Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten, 14.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -166,6 +166,30 @@
           }
         },
         "reasoning": "Kanada eröffnet als Co-Gastgeber im BMO Field Toronto — mit Alphonso Davies und Jonathan David verfügt das Team über echte Weltklasse im Umschaltspiel. Bosnien ist mit Edin Džeko erfahren, aber gealtert und in der Defensive anfällig gegen Tempo. Der Heimvorteil gibt den Ausschlag."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "shots": {
+            "home": 13,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -205,6 +229,30 @@
           }
         },
         "reasoning": "Die USA eröffnen im SoFi Stadium vor Heimpublikum mit ihrer goldenen Generation um Pulisic, McKennie und Musah. Paraguay verteidigt traditionell tief und kompakt — die Albirroja hat sich über genau diese Stabilität qualifiziert. Die US-Offensive sollte sich aber durchsetzen, auch wenn es eng wird."
+      },
+      "actual": {
+        "score": {
+          "home": 4,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 65,
+            "away": 35
+          },
+          "shots": {
+            "home": 16,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -244,6 +292,30 @@
           }
         },
         "reasoning": "Die Schweiz ist seit Jahren eine Turniermannschaft, die Gruppenphasen zuverlässig übersteht — strukturiert, ballsicher, defensiv diszipliniert. Katar enttäuschte bei der Heim-WM 2022 mit drei Niederlagen und hat sich seither kaum weiterentwickelt. Klare Sache für die Nati, die das Spiel kontrollieren wird."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 32,
+            "away": 68
+          },
+          "shots": {
+            "home": 6,
+            "away": 26
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -260,29 +332,53 @@
       },
       "prediction": {
         "score": {
-          "home": 2,
+          "home": 1,
           "away": 1
         },
-        "confidence": 54,
+        "confidence": 45,
         "expectedStats": {
           "possession": {
             "home": 56,
             "away": 44
           },
           "shots": {
-            "home": 13,
-            "away": 8
+            "home": 12,
+            "away": 9
           },
           "shotsOnTarget": {
-            "home": 5,
-            "away": 3
+            "home": 4,
+            "away": 4
           },
           "corners": {
             "home": 6,
             "away": 4
           }
         },
-        "reasoning": "Der Kracher des ersten Spieltags im MetLife Stadium. Marokko ist defensiv weiter top organisiert, aber die Wettquoten favorisieren Brasilien deutlich — und Quoten sind der beste aggregierte Prädiktor. Brasiliens individuelle Klasse um Vinicius und Rodrygo bricht auch tiefe Abwehrblöcke; das marokkanische 2:1 im Testspiel 2023 ist drei Jahre her und kaum noch aussagekräftig. Knapper Favoritensieg in einem engen Spiel."
+        "reasoning": "Der Kracher des ersten Spieltags im MetLife Stadium. Brasilien hat individuell mehr Klasse, aber Marokko ist seit dem WM-Halbfinale 2022 defensiv eine Macht und lässt wenig zu. Genau das wahrscheinlichste Einzelergebnis — ein enges Remis, in dem sich die Favoriten neutralisieren. Niedrige Confidence, weil hier alles drin ist."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 51,
+            "away": 49
+          },
+          "shots": {
+            "home": 12,
+            "away": 14
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -322,6 +418,30 @@
           }
         },
         "reasoning": "Schottland fährt mit der Euphorie der ersten WM-Teilnahme seit 1998 nach Boston — McTominay und McGinn geben dem Team Struktur und Torgefahr aus dem Mittelfeld. Haiti ist der Außenseiter des Turniers und wird kämpfen, aber die individuelle Lücke ist zu groß. Schottland kontrolliert Ball und Spiel."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shots": {
+            "home": 15,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -361,6 +481,30 @@
           }
         },
         "reasoning": "Die Türkei um Spielmacher Arda Güler und die starke Serie-A-Fraktion (Çalhanoğlu, Yıldız) hat den deutlich höheren Kader-Marktwert und mehr kreative Lösungen. Australien ist lauf- und kampfstark, lebt aber von Standards und Kontern. Güler gegen Australiens Abwehrkette dürfte der entscheidende Faktor sein."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 28,
+            "away": 72
+          },
+          "shots": {
+            "home": 9,
+            "away": 30
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -400,6 +544,30 @@
           }
         },
         "reasoning": "Krasseres Kräfteungleichgewicht gibt es im Turnier kaum: Deutschland mit Wirtz, Musiala und Kimmich gegen den WM-Debütanten Curaçao, dessen Kader größtenteils aus der niederländischen zweiten Liga stammt. Deutschland wird das Spiel komplett dominieren — einzige Frage ist die Chancenverwertung. Hohe Confidence, die Daten sind eindeutig."
+      },
+      "actual": {
+        "score": {
+          "home": 7,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 65,
+            "away": 35
+          },
+          "shots": {
+            "home": 26,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {

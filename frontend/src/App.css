@@ -19,6 +19,15 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: 'Segoe UI', system-ui, sans-serif;
+  /* Fußball-Mauszeiger (Higgsfield-generiert), Hotspot mittig */
+  cursor: url('/ball-cursor-32.png') 16 16, auto;
+}
+
+/* klickbare Elemente bekommen den größeren Ball als Hover-Cursor */
+.match-card,
+a,
+button {
+  cursor: url('/ball-cursor-48.png') 24 24, pointer;
 }
 
 .app {
