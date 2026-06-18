@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-18T10:28:55.322Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten, 18.6.2026)",
+  "generatedAt": "2026-06-18T10:40:13.156Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form Spieltag 1, 18.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -1802,29 +1802,29 @@
       },
       "prediction": {
         "score": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
-        "confidence": 49,
+        "confidence": 60,
         "expectedStats": {
           "possession": {
-            "home": 57,
-            "away": 43
+            "home": 60,
+            "away": 40
           },
           "shots": {
-            "home": 13,
-            "away": 7
+            "home": 16,
+            "away": 8
           },
           "shotsOnTarget": {
-            "home": 4,
+            "home": 6,
             "away": 3
           },
           "corners": {
-            "home": 6,
+            "home": 7,
             "away": 3
           }
         },
-        "reasoning": "Die Türkei wird das Spiel machen, Paraguay wird es zerstören — ein klassisches Geduldsspiel. Paraguays Defensivblock um Torwart-Routinier und kompakte Doppelsechs ist genau das Gift gegen Gülers Kreativität. Dominanz heißt nicht Sieg: Hier riecht es nach Punkteteilung."
+        "reasoning": "Klare Aufwertung nach Spieltag 1: Die Türkei dominierte gegen Australien mit 30 Schüssen und 72% Ballbesitz — verlor nur, weil schlicht nichts reinging (krasse Chancen-Unterperformance). So viel Offensivdruck bestraft Paraguay irgendwann, das gegen die USA mit 1:4 unterging. Die Türkei dreht das diesmal in einen Sieg um."
       }
     },
     {
@@ -1997,29 +1997,29 @@
       },
       "prediction": {
         "score": {
-          "home": 3,
+          "home": 2,
           "away": 0
         },
-        "confidence": 74,
+        "confidence": 68,
         "expectedStats": {
           "possession": {
-            "home": 70,
-            "away": 30
+            "home": 72,
+            "away": 28
           },
           "shots": {
-            "home": 17,
+            "home": 20,
             "away": 5
           },
           "shotsOnTarget": {
             "home": 7,
-            "away": 1
+            "away": 2
           },
           "corners": {
             "home": 8,
             "away": 2
           }
         },
-        "reasoning": "Spanien erstickt Gegner dieser Kategorie mit seinem Positionsspiel — Saudi-Arabien wird kaum aus der eigenen Hälfte kommen. Die Saudis setzen auf Disziplin und das Wunder von 2022, aber Yamal und Pedri sind eine andere Dimension als damals. Klare Angelegenheit."
+        "reasoning": "Spanien war gegen Kap Verde mit 27 Schüssen und 74% Ballbesitz erdrückend überlegen — das 0:0 war reines Chancen-Pech, kein Leistungsproblem. Saudi-Arabien hat aber gerade gegen Uruguay (1:1) gezeigt, dass es tief und diszipliniert verteidigen kann. Spanien gewinnt klar, aber die Saudis verhindern das ganz große Debakel."
       }
     },
     {
@@ -2231,29 +2231,29 @@
       },
       "prediction": {
         "score": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
-        "confidence": 47,
+        "confidence": 55,
         "expectedStats": {
           "possession": {
-            "home": 48,
-            "away": 52
+            "home": 50,
+            "away": 50
           },
           "shots": {
-            "home": 10,
-            "away": 11
+            "home": 13,
+            "away": 8
           },
           "shotsOnTarget": {
-            "home": 4,
-            "away": 4
+            "home": 5,
+            "away": 3
           },
           "corners": {
-            "home": 4,
-            "away": 5
+            "home": 5,
+            "away": 4
           }
         },
-        "reasoning": "Das heimliche Topspiel der Gruppe I: Haalands Wucht gegen Senegals beste Innenverteidigung Afrikas. Beide Teams sind körperlich auf Top-Niveau und neutralisieren sich in den Schlüsselzonen. Ein Unentschieden hilft beiden im Rennen ums Achtelfinale — und ist auch sportlich die logischste Prognose."
+        "reasoning": "Nach dem 4:1 gegen Irak ist Norwegen mit Haaland (sofort getroffen) das formstärkere Team. Senegal enttäuschte beim 1:3 gegen Frankreich mit nur 6 Schüssen — die Offensive lief nicht. Norwegen hat den besten Einzelspieler auf dem Platz und nutzt das im Topspiel der Gruppe I zum knappen Sieg."
       }
     },
     {
@@ -2309,29 +2309,29 @@
       },
       "prediction": {
         "score": {
-          "home": 3,
-          "away": 0
+          "home": 2,
+          "away": 1
         },
-        "confidence": 71,
+        "confidence": 58,
         "expectedStats": {
           "possession": {
-            "home": 65,
-            "away": 35
+            "home": 62,
+            "away": 38
           },
           "shots": {
-            "home": 17,
-            "away": 5
+            "home": 13,
+            "away": 7
           },
           "shotsOnTarget": {
-            "home": 7,
-            "away": 1
+            "home": 5,
+            "away": 3
           },
           "corners": {
-            "home": 8,
-            "away": 2
+            "home": 6,
+            "away": 3
           }
         },
-        "reasoning": "Portugal rotiert vielleicht, bleibt aber auch mit der zweiten Garde haushoch überlegen. Usbekistan wird nach dem Auftakt gegen Kolumbien erneut tief stehen müssen — gegen Leãos Tempo und Fernandes' Pässe in die Tiefe hält das keine 90 Minuten. Klarer Favoritensieg."
+        "reasoning": "Abwertung nach enttäuschendem Auftakt: Portugal hatte gegen die DR Kongo 75% Ballbesitz, aber nur 7 harmlose Schüsse — die Offensive um Ronaldo wirkte zahnlos (nur 1:1). Usbekistan ist nach dem 1:3 gegen Kolumbien aber kein Maßstab, daher bleibt Portugal Favorit. Statt Kantersieg jetzt nur ein knappes 2:1."
       }
     },
     {
@@ -2465,29 +2465,29 @@
       },
       "prediction": {
         "score": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
-        "confidence": 48,
+        "confidence": 55,
         "expectedStats": {
           "possession": {
-            "home": 52,
-            "away": 48
+            "home": 58,
+            "away": 42
           },
           "shots": {
-            "home": 10,
-            "away": 11
+            "home": 15,
+            "away": 9
           },
           "shotsOnTarget": {
-            "home": 4,
-            "away": 4
+            "home": 6,
+            "away": 3
           },
           "corners": {
-            "home": 5,
-            "away": 5
+            "home": 6,
+            "away": 4
           }
         },
-        "reasoning": "Vermutlich das Endspiel um den Gruppensieg in Gruppe B — und beiden Teams könnte ein Punkt reichen. Die Schweiz kontrolliert, Kanada kontert mit Davies' Tempo vor eigenem Publikum in Vancouver. Taktisch enges Spiel mit wenig Risiko auf beiden Seiten: Remis."
+        "reasoning": "Die Schweiz war das dominanteste Team des ganzen ersten Spieltags: 26 Schüsse und 68% Ballbesitz gegen Katar — nur die Chancenverwertung verhinderte einen Kantersieg. Kanada (1:1 gegen Bosnien) ist solide, aber dieses Niveau an Ballkontrolle ist eine andere Liga. Trotz Kanadas Heimvorteil in Vancouver: Vorteil Nati."
       }
     },
     {
