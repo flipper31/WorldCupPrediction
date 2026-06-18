@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-14T21:19:07.718Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten, 14.6.2026)",
+  "generatedAt": "2026-06-18T10:28:55.322Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten, 18.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -607,6 +607,30 @@
           }
         },
         "reasoning": "Topspiel der Gruppe F: Die Niederlande mit ihrer stabilen Achse (van Dijk, de Jong, Gakpo) gegen Japans beste Generation aller Zeiten (Kubo, Mitoma, Endo). Japan hat 2022 bewiesen, dass es Topnationen schlagen kann (Deutschland, Spanien). Oranje ist leicht favorisiert, aber das ist eher ein Achtelfinale als ein Gruppenspiel."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 60,
+            "away": 40
+          },
+          "shots": {
+            "home": 10,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -646,6 +670,30 @@
           }
         },
         "reasoning": "Zwei athletische, umschaltstarke Teams auf Augenhöhe. Die Elfenbeinküste kommt als Afrikameister 2024 mit breitem Kader, Ecuador mit der jüngsten und laufstärksten Mannschaft Südamerikas um Moisés Caicedo. Beide Teams neutralisieren sich taktisch — das Remis ist hier die logischste Prognose."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 15,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -685,6 +733,30 @@
           }
         },
         "reasoning": "Schweden hat mit Isak und Gyökeres das vielleicht beste Sturmduo Europas — gegen Tunesiens tiefe Fünferkette braucht es aber Geduld. Tunesien ist defensiv organisiert, hat aber große Probleme, selbst Tore zu erzielen. Die schwedische Offensiv-Power setzt sich am Ende durch."
+      },
+      "actual": {
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shots": {
+            "home": 13,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -724,6 +796,30 @@
           }
         },
         "reasoning": "Der Europameister und Weltranglistenerste gegen den kleinsten WM-Debütanten der Geschichte. Spanien wird mit Pedri, Yamal und Co. 70+ Prozent Ballbesitz haben und Kap Verde tief in die eigene Hälfte drücken. Die Frage ist nicht ob, sondern wie hoch Spanien gewinnt."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 74,
+            "away": 26
+          },
+          "shots": {
+            "home": 27,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -763,6 +859,30 @@
           }
         },
         "reasoning": "Belgien im Umbruch nach der goldenen Generation, aber mit Doku, Openda und De Ketelaere immer noch hochkarätig besetzt. Ägypten hängt enorm an Mohamed Salah, der bei seiner womöglich letzten WM nochmal alles zeigen will. Belgien kontrolliert das Spiel, aber Salah ist immer für ein Tor gut."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shots": {
+            "home": 15,
+            "away": 14
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -802,6 +922,30 @@
           }
         },
         "reasoning": "Uruguay unter Bielsa spielt intensives Pressing mit Valverde, Ugarte und Núñez — körperlich und tempotechnisch eine andere Liga als Saudi-Arabien. Die Saudis können wie 2022 gegen Argentinien überraschen, aber das war die Ausnahme, nicht die Regel. La Celeste gewinnt kontrolliert."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 33,
+            "away": 67
+          },
+          "shots": {
+            "home": 7,
+            "away": 27
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -841,6 +985,30 @@
           }
         },
         "reasoning": "Iran ist die konstanteste Mannschaft Asiens mit erfahrenem Sturm um Taremi und Azmoun. Neuseeland qualifizierte sich durch die schwache Ozeanien-Gruppe und hat außer Chris Wood kaum internationale Klasse. Iran dominiert die entscheidenden Zonen und gewinnt verdient."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 17,
+            "away": 14
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -880,6 +1048,30 @@
           }
         },
         "reasoning": "Das härteste Auftaktlos für einen Favoriten: Frankreich mit Mbappé und der tiefsten Kaderbreite des Turniers trifft auf Senegals physisch beeindruckende Generation um Koulibaly, Camavinga-Bezwinger Pape Sarr und Nicolas Jackson. Senegal hat Frankreich im Freundschaftsspiel 2025 bereits geschlagen. Les Bleus gewinnen knapp — aber das wird kein Spaziergang."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 53,
+            "away": 47
+          },
+          "shots": {
+            "home": 11,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -919,6 +1111,30 @@
           }
         },
         "reasoning": "Norwegen kommt mit Haaland und Ødegaard zur ersten WM seit 1998 — und mit einer makellosen Quali-Bilanz. Irak hat sich gerade erst durchs Playoff gequält: Im entscheidenden Spiel gegen Bolivien (2:1) ließ man den Gegner 68% Ballbesitz und 15 Schüsse haben (Quelle: Flashscore). Gegen Haalands Kaliber wird diese Passivität bestraft."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "stats": {
+          "possession": {
+            "home": 39,
+            "away": 61
+          },
+          "shots": {
+            "home": 11,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -958,6 +1174,30 @@
           }
         },
         "reasoning": "Der Titelverteidiger um den 39-jährigen Messi bei seiner letzten WM — eingespielter und abgezockter ist kein anderes Team. Algerien mit Mahrez und Bennacer hat Qualität, aber die Erinnerung an 2022 (Auftaktpleite gegen Saudi-Arabien) wird Argentinien vor Nachlässigkeit schützen. Konzentrierter Pflichtsieg."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 10,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -997,6 +1237,30 @@
           }
         },
         "reasoning": "Österreich unter Rangnick ist eine Pressing-Maschine — bei der EM 2024 Gruppensieger vor Frankreich. Jordanien feiert seine WM-Premiere und wird tief stehen, aber Österreichs aggressive Balleroberung in der gegnerischen Hälfte erstickt solche Defensivkonzepte. Klarer Favoritensieg."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 63,
+            "away": 37
+          },
+          "shots": {
+            "home": 11,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1036,6 +1300,30 @@
           }
         },
         "reasoning": "Portugal mit dem 41-jährigen Ronaldo bei seiner sechsten WM, aber getragen wird das Team längst von Vitinha, Bruno Fernandes und Rafael Leão. Die DR Kongo hat sich sensationell durchs Playoff qualifiziert und besitzt athletisches Potenzial — aber gegen Portugals Ballzirkulation fehlt die defensive Struktur. Ein Gegentor ist drin, mehr nicht."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 75,
+            "away": 25
+          },
+          "shots": {
+            "home": 7,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1075,6 +1363,30 @@
           }
         },
         "reasoning": "Das Topspiel der Gruppe L und eine Neuauflage des WM-Halbfinals 2018. England unter Tuchel mit Bellingham, Saka und Kane ist auf dem Papier klar stärker — aber Kroatien mit dem ewigen Modrić (40) hat England bei Turnieren schon öfter wehgetan. Englands Tempo auf den Flügeln macht am Ende den Unterschied."
+      },
+      "actual": {
+        "score": {
+          "home": 4,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 52,
+            "away": 48
+          },
+          "shots": {
+            "home": 22,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1114,6 +1426,30 @@
           }
         },
         "reasoning": "Ghana mit den Kudus-Brüdern und Premier-League-erprobter Athletik gegen Panamas eingespieltes Kollektiv, das die CONCACAF-Quali dominiert hat. Panama ist unbequem und körperlich, aber Ghanas individuelle Qualität im letzten Drittel entscheidet ein enges Spiel."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 38,
+            "away": 62
+          },
+          "shots": {
+            "home": 8,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1153,6 +1489,30 @@
           }
         },
         "reasoning": "Kolumbien um den überragenden Luis Díaz und James bei seinem Abschiedsturnier — Vize-Copa-América-Sieger 2024 mit enormer Offensivqualität. Usbekistan feiert eine historische WM-Premiere und hat mit Shomurodov einen soliden Stürmer, aber gegen kolumbianisches Tempo auf den Flügeln wird die Defensive überfordert sein."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "stats": {
+          "possession": {
+            "home": 39,
+            "away": 61
+          },
+          "shots": {
+            "home": 8,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
