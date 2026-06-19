@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-18T10:40:13.156Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form Spieltag 1, 18.6.2026)",
+  "generatedAt": "2026-06-19T18:25:46.210Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten, 19.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -1552,6 +1552,30 @@
           }
         },
         "reasoning": "Tschechien ist physisch und bei Standards klar überlegen — genau die Waffen, die gegen Südafrikas eher kleine Abwehr stechen. Die Bafana Bafana brauchen Ballbesitzphasen, um ins Spiel zu finden, die ihnen die kompakten Tschechen nicht geben werden. Solider Favoritensieg."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 38,
+            "away": 62
+          },
+          "shots": {
+            "home": 14,
+            "away": 17
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1591,6 +1615,30 @@
           }
         },
         "reasoning": "Die Schweiz mit ihrer bewährten Turnier-Routine gegen Bosniens letztes Aufgebot der Džeko-Generation. Die Nati kontrolliert Spiele über Ballbesitz und Geduld, Bosnien lebt von Momenten seiner Einzelspieler. Die höhere Kaderqualität setzt sich durch, auch wenn Bosnien ein Tor gelingt."
+      },
+      "actual": {
+        "score": {
+          "home": 4,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 62,
+            "away": 38
+          },
+          "shots": {
+            "home": 13,
+            "away": 5
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1630,6 +1678,30 @@
           }
         },
         "reasoning": "Kanada vor Heimkulisse in Vancouver gegen das schwächste Team der Gruppe — Davies' Tempo gegen Katars behäbige Abwehrkette ist ein klares Mismatch. Katar hat bei seiner Heim-WM 2022 alle drei Spiele verloren und seitdem keine Entwicklung gezeigt. Deutlicher Heimsieg."
+      },
+      "actual": {
+        "score": {
+          "home": 6,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 79,
+            "away": 21
+          },
+          "shots": {
+            "home": 32,
+            "away": 2
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1669,6 +1741,30 @@
           }
         },
         "reasoning": "Mexiko im Estadio Akron mit dem zweiten Heimspiel in Serie — die Atmosphäre trägt das Team. Südkorea braucht Räume fürs Umschaltspiel mit Son, die Mexiko mit kontrolliertem Ballbesitz verknappen wird. Knapper, aber verdienter Heimsieg im vermutlichen Duell um den Gruppensieg."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 42,
+            "away": 58
+          },
+          "shots": {
+            "home": 8,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1707,7 +1803,7 @@
             "away": 3
           }
         },
-        "reasoning": "Die USA in Seattle vor 69.000 Heimfans gegen Australiens Arbeiter-Kollektiv. Die Socceroos verteidigen organisiert, haben aber gegen athletische Teams auf Augenhöhe wenig Antworten in der Offensive. Pulisic und Co. nutzen den Heimvorteil zum vorzeitigen Schritt Richtung Achtelfinale."
+        "reasoning": "Die USA zeigten in Spieltag 1 gegen Paraguay eine klinische Leistung: 65% Ballbesitz, 16 Schüsse, 4:1 — die goldene Generation um Pulisic und McKennie ist auch offensiv bereit. Australien hat jedoch alle überrascht: Sie gewannen 2:0 gegen die Türkei, obwohl die Türken 30 Schüsse und 72% Ballbesitz hatten. Die Socceroos verteidigen im Konterblock weltniveau. Die USA schlagen Australien, aber nicht so deutlich wie das Paraguay-Ergebnis vermuten lässt — Australiens Defensiv-Effizienz macht dieses Spiel schwerer als es aussieht."
       }
     },
     {
@@ -1746,7 +1842,7 @@
             "away": 5
           }
         },
-        "reasoning": "Marokko ist das unbequemste Team der Gruppe: beste Defensive Afrikas, dazu Weltklasse auf den Außenbahnen mit Hakimi. Schottland kämpft und presst, aber gegen Marokkos abgeklärte Spielkontrolle fehlt die letzte Qualität im Strafraum. Ein spätes Tor entscheidet ein zähes Spiel."
+        "reasoning": "Schottland gewann Spieltag 1 knapp mit 1:0 gegen Haiti — bemerkenswert: Haiti hatte mehr Schüsse (15 vs. 9 laut Flashscore). Die Schotten sind kampfstark, aber nicht dominant. Marokko hingegen spielte gegen Brasilien auf Augenhöhe und hatte sogar mehr Schüsse (14 vs. 12) beim 1:1 — die Atlas-Löwen sind das unbequemste Team der Gruppe. Hakimis Qualität auf rechts, Marokkos defensive Organisation und die mangelnde offensive Konsequenz der Schotten: Ein Marokko-Sieg ist die klarste Prognose des Spieltags, obwohl beide Teams punkten wollen."
       }
     },
     {
@@ -1763,10 +1859,10 @@
       },
       "prediction": {
         "score": {
-          "home": 4,
+          "home": 3,
           "away": 0
         },
-        "confidence": 79,
+        "confidence": 76,
         "expectedStats": {
           "possession": {
             "home": 68,
@@ -1785,7 +1881,7 @@
             "away": 1
           }
         },
-        "reasoning": "Nach dem schweren Auftakt gegen Marokko ist das hier Brasiliens Schützenfest-Spiel. Haiti wird mit Fünferkette verteidigen, aber Vinícius, Rodrygo und Endrick finden gegen WM-Debütanten dieser Kategorie immer Lösungen. Hohe Confidence für einen deutlichen Sieg der Seleção."
+        "reasoning": "Pflichtaufgabe für die Seleção, aber Haiti hat in Spieltag 1 gegen Schottland überraschend 15 Schüsse produziert (vs. Schottlands 9) — die Haitianer sind nicht völlig kampflos. Brasilien seinerseits hat gegen Marokko im Remis (12 vs. 14 Schüsse, xG-Daten laut Flashscore ausgeglichen) gezeigt, dass sie gegen tiefstehende kompakte Teams kein Selbstläufer-Offensivspiel produzieren. Dennoch: Der Qualitätsunterschied ist gewaltig — Vinícius, Rodrygo und Endrick finden auch gegen Haiti die entscheidenden Lücken. Klarer Sieg, aber kein Schützenfest wie zunächst erwartet."
       }
     },
     {
@@ -1805,7 +1901,7 @@
           "home": 2,
           "away": 1
         },
-        "confidence": 60,
+        "confidence": 56,
         "expectedStats": {
           "possession": {
             "home": 60,
@@ -1824,7 +1920,7 @@
             "away": 3
           }
         },
-        "reasoning": "Klare Aufwertung nach Spieltag 1: Die Türkei dominierte gegen Australien mit 30 Schüssen und 72% Ballbesitz — verlor nur, weil schlicht nichts reinging (krasse Chancen-Unterperformance). So viel Offensivdruck bestraft Paraguay irgendwann, das gegen die USA mit 1:4 unterging. Die Türkei dreht das diesmal in einen Sieg um."
+        "reasoning": "Türkei mit Arda Güler und Çalhanoğlu produzierte in Spieltag 1 gegen Australien 30 Schüsse und 72% Ballbesitz — und verlor trotzdem 0:2 durch zwei australische Kontertore. Das Finishing-Problem ist real. Paraguay verlor deutlich 1:4 gegen die USA und ließ dort 16 Schüsse zu. Die Türkei wird erneut dominant sein und dieses Mal bei ähnlichem Chancen-Volumen treffen: In der zweiten WM-Partie fallen die Tore, die im ersten Spiel ausblieben. Klarer, aber knappper Sieg der Türkei."
       }
     },
     {
@@ -1902,7 +1998,7 @@
             "away": 3
           }
         },
-        "reasoning": "Deutschlands Ballbesitzspiel trifft auf die athletischste Mannschaft Afrikas. Die Elfenbeinküste kann im Umschaltspiel jeder Abwehr wehtun — genau die deutsche Schwachstelle der letzten Turniere. Wirtz und Musiala sollten dennoch genug Chancen kreieren, um das Spiel zu gewinnen, auch wenn es phasenweise unangenehm wird."
+        "reasoning": "Deutschland zeigte in Spieltag 1 gegen Curaçao (7:1) seine ganze Offensivmacht: 26 Schüsse, 65% Ballbesitz, Wirtz und Musiala spielten nach Belieben. Die Elfenbeinküste gewann derweil effizient 1:0 gegen Ecuador — wobei Ecuador laut Flashscore 52% Ballbesitz und 12 Schüsse hatte, die Ivorer also eher über Effizienz als Dominanz siegten. Gegen Deutschlands Pressing-Intensität und individuellen Klasse wird die CIV im zweiten Gang erheblich mehr kämpfen müssen. Deutschlands Offensivpower reicht für den Sieg — aber ein ivorisches Kontertor ist wahrscheinlicher als gegen Curaçao."
       }
     },
     {
@@ -2331,7 +2427,7 @@
             "away": 3
           }
         },
-        "reasoning": "Abwertung nach enttäuschendem Auftakt: Portugal hatte gegen die DR Kongo 75% Ballbesitz, aber nur 7 harmlose Schüsse — die Offensive um Ronaldo wirkte zahnlos (nur 1:1). Usbekistan ist nach dem 1:3 gegen Kolumbien aber kein Maßstab, daher bleibt Portugal Favorit. Statt Kantersieg jetzt nur ein knappes 2:1."
+        "reasoning": "Portugal enttäuschte in Spieltag 1 (nur 7 Schüsse bei 75% Ballbesitz gegen DR Kongo, 1:1) und ist nach dem Spieltag 2-Ergebnis noch zu beobachten. Usbekistan unterlag deutlich 1:3 gegen Kolumbien, obwohl sie 39% Ballbesitz und 8 Schüsse produzierten — die Defensive ist anfällig. Portugal hat mit Vitinha, Bruno Fernandes und Leão genug Klasse, um das zu lösen. Der Sieg kommt, aber ohne die erhoffte Dominanz."
       }
     },
     {
@@ -2487,7 +2583,7 @@
             "away": 4
           }
         },
-        "reasoning": "Die Schweiz war das dominanteste Team des ganzen ersten Spieltags: 26 Schüsse und 68% Ballbesitz gegen Katar — nur die Chancenverwertung verhinderte einen Kantersieg. Kanada (1:1 gegen Bosnien) ist solide, aber dieses Niveau an Ballkontrolle ist eine andere Liga. Trotz Kanadas Heimvorteil in Vancouver: Vorteil Nati."
+        "reasoning": "Das Topspiel der Gruppe B: Schweiz nach Spieltag 2 (4:1 gegen Bosnien mit 62% Ballbesitz und 13 Schüssen, xG 2.06) gegen Kanada (6:0 gegen Katar — 79% Ballbesitz, 32 Schüsse, xG 4.60). Katars völlige Wertlosigkeit relativiert Kanadas Katar-Gala erheblich. Die Schweiz spielte gegen einen echten Gegner und dominierte ihn. Die Nati hat in der Gruppenphase jetzt maximale Punkte und kontrolliert das Tempo — auch wenn Davies und David gefährlich sind. Knappes Ergebnis, aber Vorteil Schweiz."
       }
     },
     {
@@ -2526,7 +2622,7 @@
             "away": 2
           }
         },
-        "reasoning": "Für Bosnien geht es um die letzte Achtelfinal-Chance, für Katar nur noch um Schadensbegrenzung. Džeko und Co. haben die klar bessere Einzelqualität und die größere Motivation. Bosnien gewinnt das Kellerduell verdient."
+        "reasoning": "Das Kellerduell von Gruppe B: Bosnien nach dem 1:4-Debakel gegen die Schweiz (nur 5 Schüsse gegenüber 13 der Nati) gegen Katar nach dem 0:6-Desaster gegen Kanada (2 Schüsse vs. 32! laut Flashscore). Bosniens Chance liegt darin, dass sie mehr Einzelqualität haben als Katar. Džekos Erfahrung und die Motivation für die letzte Achtelfinalhoffnung geben Bosnien den Vorteil im Endspiel am Tabellenende."
       }
     },
     {
@@ -2624,7 +2720,7 @@
           "home": 1,
           "away": 2
         },
-        "confidence": 53,
+        "confidence": 60,
         "expectedStats": {
           "possession": {
             "home": 44,
@@ -2643,7 +2739,7 @@
             "away": 6
           }
         },
-        "reasoning": "Mexiko spielt das dritte Heimspiel in Serie im ausverkauften Estadio Banorte — möglicherweise geht es um den Gruppensieg. Tschechien hält physisch dagegen und ist bei Standards gefährlich, aber Mexikos Tempo-Dribbler und die Kulisse von 87.000 kippen das Spiel. El Tri bleibt zuhause ungeschlagen."
+        "reasoning": "Mexiko ist nach zwei Spieltagen das überzeugendere Team: 2:0 gegen Südafrika, 1:0 gegen Südkorea — beide Male kontrolliert, ohne große Verletzlichkeit zu zeigen. Tschechien hingegen enttäuschte in Spieltag 2 massiv: Nur 38% Ballbesitz und 14 Schüsse gegen Südafrika bei einem 1:1, das einer Niederlage nahestand (Südafrika hatte 62% und 17 Schüsse, Quelle: Flashscore). El Tri im dritten Heimspiel vor 87.000 Fans im Estadio Banorte ist jetzt klarer Favorit. Klarer als in der Vorschau erwartet."
       }
     },
     {
@@ -2682,7 +2778,7 @@
             "away": 6
           }
         },
-        "reasoning": "Südkorea braucht hier vermutlich einen Sieg fürs Achtelfinale — und hat mit Son, Lee Kang-in und Kim Min-jae die klar reifere Mannschaft. Südafrika kämpft um die historische K.o.-Runde, aber die koreanische Effizienz im letzten Drittel entscheidet. Asiens Konstante setzt sich durch."
+        "reasoning": "Faszinierende Konstellation: Südafrika war in Spieltag 2 gegen Tschechien statistisch das BESSERE Team (62% Ballbesitz, 17 Schüsse vs. 14 — laut Flashscore), holte aber nur ein 1:1. Südkorea gewann 2:1 gegen Tschechien und 1:0 gegen Mexiko — beides knappe, effiziente Siege trotz unterlegener Expected-Goal-Werte. Son und Co. sind die abgeklärteren Abschlussspieler, auch wenn Südafrika physisch und im Pressing auf dem Niveau liegt. Ein südkoreanischer Sieg, aber enger als es die Punktedifferenz vermuten lässt."
       }
     },
     {
