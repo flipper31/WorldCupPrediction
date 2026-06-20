@@ -1438,7 +1438,7 @@
             "away": 62
           },
           "shots": {
-            "home": 8,
+            "home": 7,
             "away": 11
           },
           "shotsOnTarget": {
@@ -1804,6 +1804,30 @@
           }
         },
         "reasoning": "Die USA zeigten in Spieltag 1 gegen Paraguay eine klinische Leistung: 65% Ballbesitz, 16 Schüsse, 4:1 — die goldene Generation um Pulisic und McKennie ist auch offensiv bereit. Australien hat jedoch alle überrascht: Sie gewannen 2:0 gegen die Türkei, obwohl die Türken 30 Schüsse und 72% Ballbesitz hatten. Die Socceroos verteidigen im Konterblock weltniveau. Die USA schlagen Australien, aber nicht so deutlich wie das Paraguay-Ergebnis vermuten lässt — Australiens Defensiv-Effizienz macht dieses Spiel schwerer als es aussieht."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 62,
+            "away": 38
+          },
+          "shots": {
+            "home": 10,
+            "away": 5
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1843,6 +1867,30 @@
           }
         },
         "reasoning": "Schottland gewann Spieltag 1 knapp mit 1:0 gegen Haiti — bemerkenswert: Haiti hatte mehr Schüsse (15 vs. 9 laut Flashscore). Die Schotten sind kampfstark, aber nicht dominant. Marokko hingegen spielte gegen Brasilien auf Augenhöhe und hatte sogar mehr Schüsse (14 vs. 12) beim 1:1 — die Atlas-Löwen sind das unbequemste Team der Gruppe. Hakimis Qualität auf rechts, Marokkos defensive Organisation und die mangelnde offensive Konsequenz der Schotten: Ein Marokko-Sieg ist die klarste Prognose des Spieltags, obwohl beide Teams punkten wollen."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 41,
+            "away": 59
+          },
+          "shots": {
+            "home": 6,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1882,6 +1930,30 @@
           }
         },
         "reasoning": "Pflichtaufgabe für die Seleção, aber Haiti hat in Spieltag 1 gegen Schottland überraschend 15 Schüsse produziert (vs. Schottlands 9) — die Haitianer sind nicht völlig kampflos. Brasilien seinerseits hat gegen Marokko im Remis (12 vs. 14 Schüsse, xG-Daten laut Flashscore ausgeglichen) gezeigt, dass sie gegen tiefstehende kompakte Teams kein Selbstläufer-Offensivspiel produzieren. Dennoch: Der Qualitätsunterschied ist gewaltig — Vinícius, Rodrygo und Endrick finden auch gegen Haiti die entscheidenden Lücken. Klarer Sieg, aber kein Schützenfest wie zunächst erwartet."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 57,
+            "away": 43
+          },
+          "shots": {
+            "home": 8,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -1921,6 +1993,30 @@
           }
         },
         "reasoning": "Türkei mit Arda Güler und Çalhanoğlu produzierte in Spieltag 1 gegen Australien 30 Schüsse und 72% Ballbesitz — und verlor trotzdem 0:2 durch zwei australische Kontertore. Das Finishing-Problem ist real. Paraguay verlor deutlich 1:4 gegen die USA und ließ dort 16 Schüsse zu. Die Türkei wird erneut dominant sein und dieses Mal bei ähnlichem Chancen-Volumen treffen: In der zweiten WM-Partie fallen die Tore, die im ersten Spiel ausblieben. Klarer, aber knappper Sieg der Türkei."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 79,
+            "away": 21
+          },
+          "shots": {
+            "home": 32,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
