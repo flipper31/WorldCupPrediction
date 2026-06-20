@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T18:25:46.210Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten, 19.6.2026)",
+  "generatedAt": "2026-06-20T07:44:10.461Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 20.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -2034,9 +2034,9 @@
       "prediction": {
         "score": {
           "home": 2,
-          "away": 1
+          "away": 2
         },
-        "confidence": 53,
+        "confidence": 46,
         "expectedStats": {
           "possession": {
             "home": 55,
@@ -2044,18 +2044,18 @@
           },
           "shots": {
             "home": 13,
-            "away": 10
+            "away": 11
           },
           "shotsOnTarget": {
             "home": 5,
-            "away": 4
+            "away": 5
           },
           "corners": {
             "home": 6,
-            "away": 4
+            "away": 5
           }
         },
-        "reasoning": "Taktisch spannendstes Spiel des Spieltags: Oranjes Ballbesitzspiel gegen Schwedens direktes Konterspiel mit Isak und Gyökeres. Die Niederlande haben mehr Kontrolle, aber jede hohe Abwehrlinie gegen dieses Sturmduo ist ein Risiko. Van Dijks Erfahrung gibt den Ausschlag — knapp."
+        "reasoning": "Abwertung nach Spieltag 1: Die Niederlande enttäuschten beim 2:2 gegen Japan (wackelige Defensive), während Schweden Tunesien mit 5:1 abfertigte und eiskalt vor dem Tor war. Oranje hat mehr Ballbesitz, aber Schwedens Sturm um Isak/Gyökeres ist gerade brandgefährlich. Offenes Spiel mit Toren auf beiden Seiten — Remis."
       }
     },
     {
@@ -2073,28 +2073,28 @@
       "prediction": {
         "score": {
           "home": 2,
-          "away": 1
+          "away": 0
         },
-        "confidence": 58,
+        "confidence": 62,
         "expectedStats": {
           "possession": {
-            "home": 58,
-            "away": 42
+            "home": 60,
+            "away": 40
           },
           "shots": {
-            "home": 14,
-            "away": 9
+            "home": 18,
+            "away": 8
           },
           "shotsOnTarget": {
-            "home": 6,
-            "away": 3
+            "home": 7,
+            "away": 2
           },
           "corners": {
-            "home": 7,
+            "home": 8,
             "away": 3
           }
         },
-        "reasoning": "Deutschland zeigte in Spieltag 1 gegen Curaçao (7:1) seine ganze Offensivmacht: 26 Schüsse, 65% Ballbesitz, Wirtz und Musiala spielten nach Belieben. Die Elfenbeinküste gewann derweil effizient 1:0 gegen Ecuador — wobei Ecuador laut Flashscore 52% Ballbesitz und 12 Schüsse hatte, die Ivorer also eher über Effizienz als Dominanz siegten. Gegen Deutschlands Pressing-Intensität und individuellen Klasse wird die CIV im zweiten Gang erheblich mehr kämpfen müssen. Deutschlands Offensivpower reicht für den Sieg — aber ein ivorisches Kontertor ist wahrscheinlicher als gegen Curaçao."
+        "reasoning": "Aufwertung: Deutschland war beim 7:1 gegen Curaçao mit 26 Schüssen die mit Abstand offensivstärkste Mannschaft des ersten Spieltags. Die Elfenbeinküste gewann zwar 1:0, blieb dabei aber blass. Diese deutsche Form lässt mehr als nur einen knappen Sieg erwarten — 2:0 mit zu Null."
       }
     },
     {
@@ -2229,28 +2229,28 @@
       "prediction": {
         "score": {
           "home": 2,
-          "away": 0
+          "away": 1
         },
-        "confidence": 59,
+        "confidence": 53,
         "expectedStats": {
           "possession": {
-            "home": 60,
-            "away": 40
+            "home": 58,
+            "away": 42
           },
           "shots": {
             "home": 14,
-            "away": 6
+            "away": 9
           },
           "shotsOnTarget": {
             "home": 6,
-            "away": 2
+            "away": 3
           },
           "corners": {
-            "home": 7,
-            "away": 2
+            "home": 6,
+            "away": 4
           }
         },
-        "reasoning": "Belgien kontrolliert mit Doku und Trossard die Außenbahnen, wo Iran traditionell verwundbar ist. Die Iraner verteidigen leidenschaftlich und sind bei Kontern gefährlich, aber Taremi allein wird Belgiens Abwehr nicht knacken. Verdienter Sieg im Duell um den Gruppensieg."
+        "reasoning": "Anpassung nach oben für Iran offensiv: Beim 2:2 gegen Neuseeland kam Iran auf 17 Schüsse und zwei Tore — die Offensive funktioniert, die Defensive aber nicht. Belgien (1:1 gegen Ägypten) ist favorisiert und wird gewinnen, kassiert gegen diesen Iran aber wohl ein Tor. Statt 2:0 jetzt 2:1."
       }
     },
     {
@@ -2267,21 +2267,21 @@
       },
       "prediction": {
         "score": {
-          "home": 3,
+          "home": 2,
           "away": 0
         },
-        "confidence": 72,
+        "confidence": 63,
         "expectedStats": {
           "possession": {
-            "home": 62,
-            "away": 38
+            "home": 64,
+            "away": 36
           },
           "shots": {
-            "home": 16,
-            "away": 4
+            "home": 18,
+            "away": 5
           },
           "shotsOnTarget": {
-            "home": 7,
+            "home": 6,
             "away": 1
           },
           "corners": {
@@ -2289,7 +2289,7 @@
             "away": 2
           }
         },
-        "reasoning": "Bielsas Pressing-Fußball gegen den WM-Neuling — Uruguay erobert Bälle in der gegnerischen Hälfte und kommt zu Chancen im Minutentakt. Kap Verde hat die Quali-Sensation geschafft, aber dieses Intensitätslevel ist eine neue Erfahrung. Deutlicher Sieg für La Celeste."
+        "reasoning": "Leichte Abwertung: Uruguay dominierte gegen Saudi-Arabien mit 27 Schüssen, traf aber nur einmal (1:1) — die Chancenverwertung hakt. Kap Verde hielt Spanien beim 0:0 und mauert extrem diszipliniert. Uruguay gewinnt klar, aber gegen diesen tiefen Block werden es kaum drei Tore — 2:0."
       }
     },
     {
@@ -2306,29 +2306,29 @@
       },
       "prediction": {
         "score": {
-          "home": 0,
+          "home": 1,
           "away": 2
         },
-        "confidence": 60,
+        "confidence": 50,
         "expectedStats": {
           "possession": {
-            "home": 42,
-            "away": 58
+            "home": 44,
+            "away": 56
           },
           "shots": {
-            "home": 6,
+            "home": 10,
             "away": 13
           },
           "shotsOnTarget": {
-            "home": 2,
+            "home": 4,
             "away": 5
           },
           "corners": {
-            "home": 3,
+            "home": 4,
             "away": 6
           }
         },
-        "reasoning": "Salah gegen Neuseelands Viererkette — das ist das Spiel in einem Satz. Die All Whites sind kampfstark, aber technisch limitiert; Ägypten hat mit Salah, Marmoush und Co. genug Klasse, um dieses Spiel über Einzelaktionen zu entscheiden. Pflichtsieg für die Pharaonen."
+        "reasoning": "Anpassung: Neuseeland zeigte beim 2:2 gegen Iran überraschende Offensivkraft und kann treffen. Ägypten (1:1 gegen Belgien) mit Salah bleibt favorisiert und individuell überlegen, wird aber wohl ein Gegentor hinnehmen müssen. Statt 0:2 jetzt 1:2."
       }
     },
     {
