@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-20T07:44:10.461Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 20.6.2026)",
+  "generatedAt": "2026-06-21T07:00:00.000Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 21.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -2056,6 +2056,30 @@
           }
         },
         "reasoning": "Abwertung nach Spieltag 1: Die Niederlande enttäuschten beim 2:2 gegen Japan (wackelige Defensive), während Schweden Tunesien mit 5:1 abfertigte und eiskalt vor dem Tor war. Oranje hat mehr Ballbesitz, aber Schwedens Sturm um Isak/Gyökeres ist gerade brandgefährlich. Offenes Spiel mit Toren auf beiden Seiten — Remis."
+      },
+      "actual": {
+        "score": {
+          "home": 5,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": null,
+            "away": null
+          },
+          "shots": {
+            "home": null,
+            "away": null
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2095,6 +2119,30 @@
           }
         },
         "reasoning": "Aufwertung: Deutschland war beim 7:1 gegen Curaçao mit 26 Schüssen die mit Abstand offensivstärkste Mannschaft des ersten Spieltags. Die Elfenbeinküste gewann zwar 1:0, blieb dabei aber blass. Diese deutsche Form lässt mehr als nur einen knappen Sieg erwarten — 2:0 mit zu Null."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": null,
+            "away": null
+          },
+          "shots": {
+            "home": null,
+            "away": null
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2134,6 +2182,30 @@
           }
         },
         "reasoning": "Ecuador mit seiner laufstarken, jungen Truppe gegen den limitiertesten Kader des Turniers. Caicedo kontrolliert das Mittelfeld, die Außenverteidiger schieben permanent hoch. Curaçao kann das Tempo über 90 Minuten nicht mitgehen — klarer Sieg für La Tri."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": null,
+            "away": null
+          },
+          "shots": {
+            "home": null,
+            "away": null
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2173,6 +2245,30 @@
           }
         },
         "reasoning": "Japan hat in jeder Linie mehr Qualität: Mitomas Dribblings, Kubos Kreativität, Endos Kontrolle. Tunesien wird tief verteidigen und auf Standards hoffen, aber Japans Geduld im Ballbesitz knackt solche Blöcke verlässlich. Die Samurai Blue gewinnen kontrolliert."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 4
+        },
+        "stats": {
+          "possession": {
+            "home": null,
+            "away": null
+          },
+          "shots": {
+            "home": null,
+            "away": null
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2930,29 +3026,29 @@
       },
       "prediction": {
         "score": {
-          "home": 1,
+          "home": 0,
           "away": 2
         },
-        "confidence": 50,
+        "confidence": 58,
         "expectedStats": {
           "possession": {
-            "home": 42,
-            "away": 58
+            "home": 38,
+            "away": 62
           },
           "shots": {
-            "home": 9,
-            "away": 14
+            "home": 7,
+            "away": 16
           },
           "shotsOnTarget": {
-            "home": 4,
-            "away": 6
+            "home": 2,
+            "away": 7
           },
           "corners": {
-            "home": 4,
-            "away": 7
+            "home": 3,
+            "away": 8
           }
         },
-        "reasoning": "Wahrscheinlich das Endspiel um den Gruppensieg in Gruppe E. Ecuador läuft und presst 90 Minuten auf höchstem Niveau — die unangenehmste Sorte Gegner für Deutschland. Aber Wirtz und Musiala finden gegen jede Pressing-Struktur Lücken, und die deutsche Kaderbreite sticht am dritten Spieltag. Knapper Sieg, 50:50-Charakter."
+        "reasoning": "Neubewertung nach Spieltag 2: Ecuador ist 0:0 gegen Curaçao — den schwächsten Kader des Turniers — gestanden, ohne ein Tor zu erzielen. Die Offensive von La Tri ist real gescheitert. Deutschland gewann 2:1 gegen die Elfenbeinküste — kein Schützenfest, aber ein souveräner Sieg. Die Quoten (Deutschland 1.96) spiegeln Deutschlands Überlegenheit nur teilweise wider. Ecuadors Offensivprobleme machen es unmöglich, ein Gegentor gegen dieses Deutsche Team zu tippen. Klarer Sieg der DFB-Elf ohne Gegentor."
       }
     },
     {
@@ -2969,29 +3065,29 @@
       },
       "prediction": {
         "score": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
-        "confidence": 46,
+        "confidence": 58,
         "expectedStats": {
           "possession": {
-            "home": 53,
-            "away": 47
+            "home": 55,
+            "away": 45
           },
           "shots": {
-            "home": 11,
-            "away": 10
+            "home": 14,
+            "away": 9
           },
           "shotsOnTarget": {
-            "home": 4,
-            "away": 4
+            "home": 6,
+            "away": 3
           },
           "corners": {
-            "home": 5,
+            "home": 6,
             "away": 4
           }
         },
-        "reasoning": "Womöglich entscheidet dieses Spiel, wer hinter den Niederlanden ins Achtelfinale geht — oder beide gehen durch. Japans Ballzirkulation gegen Schwedens kompaktes 4-4-2 mit den Sprintern Isak und Gyökeres vorne: taktisch hochklassig und komplett offen. Die Punkteteilung ist das wahrscheinlichste Szenario."
+        "reasoning": "Komplette Neubewertung nach Spieltag 2: Japan hat Tunesien 4:0 vernichtet — die Samurai Blue sind das formstärkste Team der Gruppe. Schweden wurde von den Niederlanden 5:1 auseinandergenommen; Isak und Gyökeres blieben ohne Wirkung. Die Quoten sehen Japan und Schweden noch fast gleichwertig (2.04 vs 3.60), aber die Ergebnisse sprechen eine klare Sprache. Japan gewinnt dieses Spiel, auch wenn Schweden mit dem Rücken zur Wand kämpfen wird."
       }
     },
     {
@@ -3011,26 +3107,26 @@
           "home": 0,
           "away": 2
         },
-        "confidence": 64,
+        "confidence": 75,
         "expectedStats": {
           "possession": {
-            "home": 38,
-            "away": 62
+            "home": 33,
+            "away": 67
           },
           "shots": {
-            "home": 5,
-            "away": 14
+            "home": 4,
+            "away": 17
           },
           "shotsOnTarget": {
             "home": 1,
-            "away": 6
+            "away": 7
           },
           "corners": {
             "home": 2,
-            "away": 7
+            "away": 8
           }
         },
-        "reasoning": "Die Niederlande wollen den Gruppensieg festzurren, Tunesien ist nach zwei Spielen vermutlich schon ausgeschieden oder braucht ein Wunder. Oranje kontrolliert mit seiner Routine Ball und Raum — Tunesiens harmlose Offensive (mutmaßlich schwächste der Gruppe) gibt keine Antworten. Sicherer Sieg."
+        "reasoning": "Klare Aufwertung nach Spieltag 2: Tunesien verlor 0:4 gegen Japan — kein Tor in zwei Spielen, keine Torgefahr. Die Niederlande dagegen schlugen Schweden 5:1 und sind das formstärkste Team in Gruppe F. Die Quoten sagen Niederlande 1.15 (extreme Favoriten). Dieser Satz macht Sinn: Tunesien ist bereits ausgeschieden, Oranje spielt für den Gruppensieg. Klarer, deutlicher Sieg für die Niederlande."
       }
     },
     {
