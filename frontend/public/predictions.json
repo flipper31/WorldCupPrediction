@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T07:00:00.000Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 21.6.2026)",
+  "generatedAt": "2026-06-26T21:26:05.196Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 26.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -2064,12 +2064,12 @@
         },
         "stats": {
           "possession": {
-            "home": null,
-            "away": null
+            "home": 51,
+            "away": 49
           },
           "shots": {
-            "home": null,
-            "away": null
+            "home": 10,
+            "away": 16
           },
           "shotsOnTarget": {
             "home": null,
@@ -2127,12 +2127,12 @@
         },
         "stats": {
           "possession": {
-            "home": null,
-            "away": null
+            "home": 59,
+            "away": 41
           },
           "shots": {
-            "home": null,
-            "away": null
+            "home": 16,
+            "away": 9
           },
           "shotsOnTarget": {
             "home": null,
@@ -2190,12 +2190,12 @@
         },
         "stats": {
           "possession": {
-            "home": null,
-            "away": null
+            "home": 75,
+            "away": 25
           },
           "shots": {
-            "home": null,
-            "away": null
+            "home": 27,
+            "away": 10
           },
           "shotsOnTarget": {
             "home": null,
@@ -2253,12 +2253,12 @@
         },
         "stats": {
           "possession": {
-            "home": null,
-            "away": null
+            "home": 38,
+            "away": 62
           },
           "shots": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 11
           },
           "shotsOnTarget": {
             "home": null,
@@ -2308,6 +2308,30 @@
           }
         },
         "reasoning": "Spanien war gegen Kap Verde mit 27 Schüssen und 74% Ballbesitz erdrückend überlegen — das 0:0 war reines Chancen-Pech, kein Leistungsproblem. Saudi-Arabien hat aber gerade gegen Uruguay (1:1) gezeigt, dass es tief und diszipliniert verteidigen kann. Spanien gewinnt klar, aber die Saudis verhindern das ganz große Debakel."
+      },
+      "actual": {
+        "score": {
+          "home": 4,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 67,
+            "away": 33
+          },
+          "shots": {
+            "home": 22,
+            "away": 3
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2347,6 +2371,30 @@
           }
         },
         "reasoning": "Anpassung nach oben für Iran offensiv: Beim 2:2 gegen Neuseeland kam Iran auf 17 Schüsse und zwei Tore — die Offensive funktioniert, die Defensive aber nicht. Belgien (1:1 gegen Ägypten) ist favorisiert und wird gewinnen, kassiert gegen diesen Iran aber wohl ein Tor. Statt 2:0 jetzt 2:1."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 70,
+            "away": 30
+          },
+          "shots": {
+            "home": 23,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2386,6 +2434,30 @@
           }
         },
         "reasoning": "Leichte Abwertung: Uruguay dominierte gegen Saudi-Arabien mit 27 Schüssen, traf aber nur einmal (1:1) — die Chancenverwertung hakt. Kap Verde hielt Spanien beim 0:0 und mauert extrem diszipliniert. Uruguay gewinnt klar, aber gegen diesen tiefen Block werden es kaum drei Tore — 2:0."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 65,
+            "away": 35
+          },
+          "shots": {
+            "home": 17,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2425,6 +2497,30 @@
           }
         },
         "reasoning": "Anpassung: Neuseeland zeigte beim 2:2 gegen Iran überraschende Offensivkraft und kann treffen. Ägypten (1:1 gegen Belgien) mit Salah bleibt favorisiert und individuell überlegen, wird aber wohl ein Gegentor hinnehmen müssen. Statt 0:2 jetzt 1:2."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "stats": {
+          "possession": {
+            "home": 44,
+            "away": 56
+          },
+          "shots": {
+            "home": 11,
+            "away": 19
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2464,6 +2560,30 @@
           }
         },
         "reasoning": "Das Duell der Stile: Argentiniens Abgeklärtheit gegen Österreichs Vollgas-Pressing. Rangnicks Team wird dem Weltmeister phasenweise den Ball abjagen und Probleme bereiten — aber Argentinien hat Messi, De Paul und die Ruhe von 2022. Erfahrung schlägt Intensität, knapp."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shots": {
+            "home": 12,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2503,6 +2623,30 @@
           }
         },
         "reasoning": "Frankreichs Offensiv-Arsenal gegen eine irakische Defensive, die schon im Playoff gegen Bolivien 15 Schüsse zuließ (Quelle: Flashscore) — gegen Mbappé, Dembélé und Olise wird das brutal bestraft. Der Irak kämpft, aber der Klassenunterschied ist der größte des Spieltags. Hohe Confidence für ein deutliches Ergebnis."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "shots": {
+            "home": 19,
+            "away": 4
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2542,6 +2686,30 @@
           }
         },
         "reasoning": "Nach dem 4:1 gegen Irak ist Norwegen mit Haaland (sofort getroffen) das formstärkere Team. Senegal enttäuschte beim 1:3 gegen Frankreich mit nur 6 Schüssen — die Offensive lief nicht. Norwegen hat den besten Einzelspieler auf dem Platz und nutzt das im Topspiel der Gruppe I zum knappen Sieg."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 42,
+            "away": 58
+          },
+          "shots": {
+            "home": 13,
+            "away": 16
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2581,6 +2749,30 @@
           }
         },
         "reasoning": "Algerien mit Mahrez' Klasse und der Tiefe aus Ligue-1-Legionären gegen den tapferen WM-Debütanten. Jordanien hat in der Asien-Quali überrascht, aber Algeriens technische Überlegenheit im Mittelfeld wird das Spiel diktieren. Verdienter Sieg der Wüstenfüchse."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 28,
+            "away": 72
+          },
+          "shots": {
+            "home": 8,
+            "away": 17
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2637,9 +2829,9 @@
       "prediction": {
         "score": {
           "home": 2,
-          "away": 0
+          "away": 1
         },
-        "confidence": 62,
+        "confidence": 56,
         "expectedStats": {
           "possession": {
             "home": 60,
@@ -2647,18 +2839,18 @@
           },
           "shots": {
             "home": 15,
-            "away": 7
+            "away": 8
           },
           "shotsOnTarget": {
             "home": 6,
-            "away": 2
+            "away": 3
           },
           "corners": {
             "home": 7,
             "away": 3
           }
         },
-        "reasoning": "England kennt Ghanas Schlüsselspieler bestens aus der Premier League — Tuchel wird Kudus gezielt zustellen lassen. Ghana ist athletisch ebenbürtig, aber Englands Tiefe (Bellingham, Foden, Palmer von der Bank) entscheidet solche Spiele in der zweiten Halbzeit. Kontrollierter Sieg."
+        "reasoning": "England ist klar favorisiert, hat aber gegen Kroatien (4:2) gezeigt, dass die Abwehr unter Tuchel löchrig ist — zwei Gegentore gegen einen alternden Gegner. Ghana hat mit dem 1:0 gegen Panama bewiesen, dass es trifft, und besitzt Bundesliga-erprobte Offensivkraft. Ein Clean Sheet ist gegen diese Mischung unwahrscheinlich: England gewinnt, kassiert aber wohl ein Tor."
       }
     },
     {
@@ -2678,26 +2870,26 @@
           "home": 1,
           "away": 2
         },
-        "confidence": 55,
+        "confidence": 48,
         "expectedStats": {
           "possession": {
-            "home": 42,
-            "away": 58
+            "home": 44,
+            "away": 56
           },
           "shots": {
-            "home": 8,
-            "away": 13
+            "home": 9,
+            "away": 12
           },
           "shotsOnTarget": {
             "home": 3,
             "away": 5
           },
           "corners": {
-            "home": 3,
-            "away": 6
+            "home": 4,
+            "away": 5
           }
         },
-        "reasoning": "Kroatiens Mittelfeld-Klasse um Modrić und Kovačić kontrolliert das Spielgeschehen, auch wenn die Mannschaft sichtbar gealtert ist. Panama nervt mit Physis und Heimkontinent-Unterstützung in Toronto, trifft auch — aber Kroatiens Turnier-DNA (zwei Finals/Halbfinals in drei WMs) setzt sich durch."
+        "reasoning": "Beide Verlierer aus Spieltag 1. Panama verlor 0:1 gegen Ghana, obwohl sie mehr Ballbesitz (62%) und mehr Schüsse (11 vs. 7) hatten — sie können Spiele kontrollieren, scheitern aber am Abschluss. Kroatien kassierte 2:4 gegen England und wurde offensiv komplett überlaufen. Modrić gibt Kroatien Turnier-Erfahrung, aber beide Teams sind in der Krise. Kroatiens Klasse setzt sich knapp durch."
       }
     },
     {
@@ -2717,7 +2909,7 @@
           "home": 2,
           "away": 1
         },
-        "confidence": 59,
+        "confidence": 62,
         "expectedStats": {
           "possession": {
             "home": 58,
@@ -2736,7 +2928,7 @@
             "away": 3
           }
         },
-        "reasoning": "Kolumbien diktiert mit Díaz und James das Spiel, die DR Kongo hält mit beeindruckender Athletik dagegen — die Kongolesen haben im Playoff bewiesen, dass sie Favoriten ärgern können. Am Ende entscheidet die höhere Qualität im letzten Drittel für die Cafeteros."
+        "reasoning": "Kolumbien lieferte in Spieltag 1 eine starke Vorstellung: 3:1 gegen Usbekistan mit Díaz in Topform (15 Schüsse, 61% Ballbesitz laut Flashscore). DR Kongo hielt Portugal tapfer auf 1:1 beim 75% gegnerischen Ballbesitz — beeindruckende Defensive. Aber gegen Kolumbiens Tempospiel auf den Flügeln fehlt die Struktur. Klarer, aber nicht einfacher Sieg für die Cafeteros."
       }
     },
     {
@@ -3224,14 +3416,14 @@
           "home": 1,
           "away": 2
         },
-        "confidence": 52,
+        "confidence": 54,
         "expectedStats": {
           "possession": {
             "home": 42,
             "away": 58
           },
           "shots": {
-            "home": 9,
+            "home": 10,
             "away": 14
           },
           "shotsOnTarget": {
@@ -3243,7 +3435,7 @@
             "away": 6
           }
         },
-        "reasoning": "Das Gigantenduell der Gruppe I: Haaland gegen Mbappé. Norwegen ist bei eigenem Ballbesitz limitierter, lebt von Ødegaards Pässen auf Haaland — Frankreich hat in jeder Linie mehr Optionen und kann das Spieltempo diktieren. Les Bleus gewinnen ein offenes Spiel knapp, beide stehen wohl trotzdem im Achtelfinale."
+        "reasoning": "Das Gipfeltreffen der Gruppe I: Beide Teams makellos mit 6/6 Punkten. Norwegen 3:2 gegen Senegal (Haaland trifft), Frankreich 3:0 gegen Irak (defensiv stabil). Haaland gegen Mbappé. Frankreich hat in jeder Linie mehr Breite und blieb zuletzt ohne Gegentor — das gibt den knappen Ausschlag. Beide stehen im Achtelfinale, aber Frankreich gewinnt den Gruppensieger-Vergleich."
       }
     },
     {
@@ -3300,28 +3492,28 @@
       "prediction": {
         "score": {
           "home": 1,
-          "away": 1
+          "away": 0
         },
-        "confidence": 45,
+        "confidence": 50,
         "expectedStats": {
           "possession": {
-            "home": 46,
-            "away": 54
+            "home": 48,
+            "away": 52
           },
           "shots": {
             "home": 9,
-            "away": 10
+            "away": 8
           },
           "shotsOnTarget": {
             "home": 3,
-            "away": 3
+            "away": 2
           },
           "corners": {
             "home": 4,
-            "away": 5
+            "away": 4
           }
         },
-        "reasoning": "Das Kellerduell der Gruppe H — für beide vermutlich die einzige realistische Punktchance. Saudi-Arabien hat mehr Ballbesitz-Struktur, Kap Verde mehr Physis und Herz. Niedrigste Confidence des Spieltags: Hier ist von 2:0 bis 0:2 alles drin, das Remis ist der logische Mittelweg."
+        "reasoning": "Komplette Neubewertung nach Spieltag 2: Kap Verde trotzte Spanien ein 0:0 und holte ein 2:2 gegen Uruguay — die Cabo Sharks sind taktisch hervorragend und physisch stark, sie können Tore erzielen. Saudi-Arabien dagegen kassierte 0:4 gegen Spanien — eine komplette Demütigung. Kap Verde ist jetzt Favorit in diesem physischen Duell."
       }
     },
     {
@@ -3338,29 +3530,29 @@
       },
       "prediction": {
         "score": {
-          "home": 1,
+          "home": 0,
           "away": 2
         },
-        "confidence": 51,
+        "confidence": 62,
         "expectedStats": {
           "possession": {
-            "home": 40,
-            "away": 60
+            "home": 38,
+            "away": 62
           },
           "shots": {
-            "home": 9,
-            "away": 13
+            "home": 7,
+            "away": 15
           },
           "shotsOnTarget": {
-            "home": 4,
-            "away": 5
+            "home": 2,
+            "away": 6
           },
           "corners": {
-            "home": 4,
-            "away": 6
+            "home": 3,
+            "away": 7
           }
         },
-        "reasoning": "Das Duell um den Gruppensieg: Spaniens Positionsspiel gegen Uruguays Pressing-Furor unter Bielsa. Uruguay wird Spanien so unangenehm pressen wie kaum ein anderes Team — aber Pedri und Yamal lösen auch Drucksituationen mit Weltklasse. Knapper Sieg für den Europameister in einem intensiven Spitzenspiel."
+        "reasoning": "Spanien hat mit dem 4:0 gegen Saudi-Arabien gezeigt: Der Tordrang ist jetzt da. Uruguay hat dagegen nach dem 2:2 gegen Kap Verde die Defensive-Lücken klar bloßgelegt. Spaniens Ballbesitz-Dominanz (72%+ in beiden Spielen) und Yamals Kreativität auf den Flügeln sind für Bielsa-Pressing zu komplex — klarer Sieg für den Europameister ohne Gegentor."
       }
     },
     {
@@ -3377,29 +3569,29 @@
       },
       "prediction": {
         "score": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
-        "confidence": 48,
+        "confidence": 54,
         "expectedStats": {
           "possession": {
-            "home": 52,
-            "away": 48
+            "home": 54,
+            "away": 46
           },
           "shots": {
-            "home": 10,
-            "away": 9
+            "home": 12,
+            "away": 8
           },
           "shotsOnTarget": {
-            "home": 4,
+            "home": 5,
             "away": 3
           },
           "corners": {
             "home": 5,
-            "away": 4
+            "away": 3
           }
         },
-        "reasoning": "Vermutlich das direkte Duell um Platz zwei hinter Belgien. Ägypten mit Salahs Magie, Iran mit kollektiver Disziplin und Taremis Abschlussstärke — zwei ebenbürtige Teams, die sich gegenseitig wenig zugestehen werden. Ein Remis könnte je nach Tordifferenz beiden helfen."
+        "reasoning": "Aufwertung für Ägypten nach Spieltag 2: Salah und Co. besiegten Neuseeland deutlich 3:1 — die Offensive ist endlich in Fahrt. Iran dagegen spielte gegen Belgien 0:0 und blieb ohne Treffer. Ägypten kontrolliert Spiele jetzt breiter, Iran hat strukturell Probleme zu treffen. Knapper ägyptischer Sieg."
       }
     },
     {
@@ -3417,28 +3609,28 @@
       "prediction": {
         "score": {
           "home": 0,
-          "away": 3
+          "away": 2
         },
-        "confidence": 72,
+        "confidence": 62,
         "expectedStats": {
           "possession": {
-            "home": 35,
-            "away": 65
+            "home": 37,
+            "away": 63
           },
           "shots": {
-            "home": 4,
-            "away": 17
+            "home": 5,
+            "away": 15
           },
           "shotsOnTarget": {
-            "home": 1,
-            "away": 7
+            "home": 2,
+            "away": 6
           },
           "corners": {
             "home": 2,
-            "away": 8
+            "away": 7
           }
         },
-        "reasoning": "Belgien will den Gruppensieg sichern, Neuseeland ist nach zwei Niederlagen vermutlich raus. Dokus Dribblings gegen müde Beine der All Whites — das Spiel kennt nur eine Richtung. Deutlicher Sieg der Roten Teufel zum Gruppenabschluss."
+        "reasoning": "Belgien hat in zwei Spielen nur ein Tor erzielt (1:1 gegen Ägypten) und spielte 0:0 gegen Iran — die Offensive ist chronisch schwach. Neuseeland verlor zwar 1:3 gegen Ägypten, aber Belgiens Torarmut macht ein 3:0 unrealistisch. Belgien gewinnt durch Qualitätsmomente, aber kein Schützenfest erwartet."
       }
     },
     {
@@ -3653,7 +3845,7 @@
           "home": 0,
           "away": 3
         },
-        "confidence": 74,
+        "confidence": 76,
         "expectedStats": {
           "possession": {
             "home": 32,
@@ -3672,7 +3864,7 @@
             "away": 8
           }
         },
-        "reasoning": "Der Weltmeister gegen den WM-Debütanten zum Gruppenabschluss — Argentinien spielt womöglich schon für die Tordifferenz und das Achtelfinal-Seeding. Jordanien hat sich teuer verkauft, aber Messi und Co. in Spiellaune sind für dieses Niveau nicht verteidigbar. Klarer Favoritensieg."
+        "reasoning": "Argentinien ist nach Spieltag 2 makellos: 3:0 gegen Algerien, 2:0 gegen Österreich — 6/6 Punkte und in den letzten zwei Spielen kein Gegentor. Jordanien verlor beide Spiele ohne Weiterkommen-Chance, zuletzt 1:2 gegen Algerien. Messi und Co. spielen für die Tordifferenz und das Seeding — deutlicher Sieg des Weltmeisters."
       }
     }
   ]

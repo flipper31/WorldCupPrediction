@@ -35,7 +35,9 @@
       "mcp__9100ea87-9bdb-41ea-a5ff-df91a322a6f8__generate_image",
       "mcp__9100ea87-9bdb-41ea-a5ff-df91a322a6f8__job_display",
       "mcp__9100ea87-9bdb-41ea-a5ff-df91a322a6f8__remove_background",
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "mcp__9100ea87-9bdb-41ea-a5ff-df91a322a6f8__models_explore",
+      "Bash(curl -s -o /dev/null -w \"Seite: %{http_code}\\\\n\" http://192.168.178.135:8181/)"
     ]
   }
 }
