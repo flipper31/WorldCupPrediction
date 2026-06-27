@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T21:26:05.196Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 26.6.2026)",
+  "generatedAt": "2026-06-27T18:46:07.896Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 27.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -2812,6 +2812,30 @@
           }
         },
         "reasoning": "Portugal enttäuschte in Spieltag 1 (nur 7 Schüsse bei 75% Ballbesitz gegen DR Kongo, 1:1) und ist nach dem Spieltag 2-Ergebnis noch zu beobachten. Usbekistan unterlag deutlich 1:3 gegen Kolumbien, obwohl sie 39% Ballbesitz und 8 Schüsse produzierten — die Defensive ist anfällig. Portugal hat mit Vitinha, Bruno Fernandes und Leão genug Klasse, um das zu lösen. Der Sieg kommt, aber ohne die erhoffte Dominanz."
+      },
+      "actual": {
+        "score": {
+          "home": 5,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 66,
+            "away": 34
+          },
+          "shots": {
+            "home": 17,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2851,6 +2875,30 @@
           }
         },
         "reasoning": "England ist klar favorisiert, hat aber gegen Kroatien (4:2) gezeigt, dass die Abwehr unter Tuchel löchrig ist — zwei Gegentore gegen einen alternden Gegner. Ghana hat mit dem 1:0 gegen Panama bewiesen, dass es trifft, und besitzt Bundesliga-erprobte Offensivkraft. Ein Clean Sheet ist gegen diese Mischung unwahrscheinlich: England gewinnt, kassiert aber wohl ein Tor."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 79,
+            "away": 21
+          },
+          "shots": {
+            "home": 19,
+            "away": 2
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2890,6 +2938,30 @@
           }
         },
         "reasoning": "Beide Verlierer aus Spieltag 1. Panama verlor 0:1 gegen Ghana, obwohl sie mehr Ballbesitz (62%) und mehr Schüsse (11 vs. 7) hatten — sie können Spiele kontrollieren, scheitern aber am Abschluss. Kroatien kassierte 2:4 gegen England und wurde offensiv komplett überlaufen. Modrić gibt Kroatien Turnier-Erfahrung, aber beide Teams sind in der Krise. Kroatiens Klasse setzt sich knapp durch."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 42,
+            "away": 58
+          },
+          "shots": {
+            "home": 8,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2929,6 +3001,30 @@
           }
         },
         "reasoning": "Kolumbien lieferte in Spieltag 1 eine starke Vorstellung: 3:1 gegen Usbekistan mit Díaz in Topform (15 Schüsse, 61% Ballbesitz laut Flashscore). DR Kongo hielt Portugal tapfer auf 1:1 beim 75% gegnerischen Ballbesitz — beeindruckende Defensive. Aber gegen Kolumbiens Tempospiel auf den Flügeln fehlt die Struktur. Klarer, aber nicht einfacher Sieg für die Cafeteros."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 64,
+            "away": 36
+          },
+          "shots": {
+            "home": 20,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -2968,6 +3064,30 @@
           }
         },
         "reasoning": "Das Topspiel der Gruppe B: Schweiz nach Spieltag 2 (4:1 gegen Bosnien mit 62% Ballbesitz und 13 Schüssen, xG 2.06) gegen Kanada (6:0 gegen Katar — 79% Ballbesitz, 32 Schüsse, xG 4.60). Katars völlige Wertlosigkeit relativiert Kanadas Katar-Gala erheblich. Die Schweiz spielte gegen einen echten Gegner und dominierte ihn. Die Nati hat in der Gruppenphase jetzt maximale Punkte und kontrolliert das Tempo — auch wenn Davies und David gefährlich sind. Knappes Ergebnis, aber Vorteil Schweiz."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shots": {
+            "home": 6,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3007,6 +3127,30 @@
           }
         },
         "reasoning": "Das Kellerduell von Gruppe B: Bosnien nach dem 1:4-Debakel gegen die Schweiz (nur 5 Schüsse gegenüber 13 der Nati) gegen Katar nach dem 0:6-Desaster gegen Kanada (2 Schüsse vs. 32! laut Flashscore). Bosniens Chance liegt darin, dass sie mehr Einzelqualität haben als Katar. Džekos Erfahrung und die Motivation für die letzte Achtelfinalhoffnung geben Bosnien den Vorteil im Endspiel am Tabellenende."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shots": {
+            "home": 14,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3046,6 +3190,30 @@
           }
         },
         "reasoning": "Marokko braucht vermutlich noch Punkte fürs Achtelfinale und trifft auf den schwächsten Gegner der Gruppe. Hakimis Flügelläufe gegen Haitis tiefe Kette, dazu Marokkos Standards — das Spiel hat nur eine Richtung. Deutlicher Sieg der Atlas-Löwen."
+      },
+      "actual": {
+        "score": {
+          "home": 4,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 69,
+            "away": 31
+          },
+          "shots": {
+            "home": 22,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3085,6 +3253,30 @@
           }
         },
         "reasoning": "Brasilien dürfte zum Abschluss der Gruppenphase den Sack zumachen wollen — gegen Schottlands kampfbetonten, aber technisch limitierten Stil hat die Seleção alle Mittel. Die Schotten hoffen auf ihren Moment, doch Vinícius und Co. sind schlicht zu schnell für diese Abwehrkette."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 3
+        },
+        "stats": {
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "shots": {
+            "home": 14,
+            "away": 21
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3124,6 +3316,30 @@
           }
         },
         "reasoning": "Mexiko ist nach zwei Spieltagen das überzeugendere Team: 2:0 gegen Südafrika, 1:0 gegen Südkorea — beide Male kontrolliert, ohne große Verletzlichkeit zu zeigen. Tschechien hingegen enttäuschte in Spieltag 2 massiv: Nur 38% Ballbesitz und 14 Schüsse gegen Südafrika bei einem 1:1, das einer Niederlage nahestand (Südafrika hatte 62% und 17 Schüsse, Quelle: Flashscore). El Tri im dritten Heimspiel vor 87.000 Fans im Estadio Banorte ist jetzt klarer Favorit. Klarer als in der Vorschau erwartet."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 3
+        },
+        "stats": {
+          "possession": {
+            "home": 52,
+            "away": 48
+          },
+          "shots": {
+            "home": 13,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3163,6 +3379,30 @@
           }
         },
         "reasoning": "Faszinierende Konstellation: Südafrika war in Spieltag 2 gegen Tschechien statistisch das BESSERE Team (62% Ballbesitz, 17 Schüsse vs. 14 — laut Flashscore), holte aber nur ein 1:1. Südkorea gewann 2:1 gegen Tschechien und 1:0 gegen Mexiko — beides knappe, effiziente Siege trotz unterlegener Expected-Goal-Werte. Son und Co. sind die abgeklärteren Abschlussspieler, auch wenn Südafrika physisch und im Pressing auf dem Niveau liegt. Ein südkoreanischer Sieg, aber enger als es die Punktedifferenz vermuten lässt."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 32,
+            "away": 68
+          },
+          "shots": {
+            "home": 13,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3202,6 +3442,30 @@
           }
         },
         "reasoning": "Die Elfenbeinküste braucht vermutlich einen Sieg plus Tore — und Curaçao ist nach zwei Spielen gegen Deutschland und Ecuador körperlich wie mental am Limit. Der Afrikameister spielt seine ganze Athletik aus und gewinnt deutlich. Höchste Vorsicht nur bei früher Roter Karte oder Elfmeter-Drama."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 37,
+            "away": 63
+          },
+          "shots": {
+            "home": 11,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3241,6 +3505,30 @@
           }
         },
         "reasoning": "Neubewertung nach Spieltag 2: Ecuador ist 0:0 gegen Curaçao — den schwächsten Kader des Turniers — gestanden, ohne ein Tor zu erzielen. Die Offensive von La Tri ist real gescheitert. Deutschland gewann 2:1 gegen die Elfenbeinküste — kein Schützenfest, aber ein souveräner Sieg. Die Quoten (Deutschland 1.96) spiegeln Deutschlands Überlegenheit nur teilweise wider. Ecuadors Offensivprobleme machen es unmöglich, ein Gegentor gegen dieses Deutsche Team zu tippen. Klarer Sieg der DFB-Elf ohne Gegentor."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 39,
+            "away": 61
+          },
+          "shots": {
+            "home": 7,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3280,6 +3568,30 @@
           }
         },
         "reasoning": "Komplette Neubewertung nach Spieltag 2: Japan hat Tunesien 4:0 vernichtet — die Samurai Blue sind das formstärkste Team der Gruppe. Schweden wurde von den Niederlanden 5:1 auseinandergenommen; Isak und Gyökeres blieben ohne Wirkung. Die Quoten sehen Japan und Schweden noch fast gleichwertig (2.04 vs 3.60), aber die Ergebnisse sprechen eine klare Sprache. Japan gewinnt dieses Spiel, auch wenn Schweden mit dem Rücken zur Wand kämpfen wird."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 52,
+            "away": 48
+          },
+          "shots": {
+            "home": 8,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3319,6 +3631,30 @@
           }
         },
         "reasoning": "Klare Aufwertung nach Spieltag 2: Tunesien verlor 0:4 gegen Japan — kein Tor in zwei Spielen, keine Torgefahr. Die Niederlande dagegen schlugen Schweden 5:1 und sind das formstärkste Team in Gruppe F. Die Quoten sagen Niederlande 1.15 (extreme Favoriten). Dieser Satz macht Sinn: Tunesien ist bereits ausgeschieden, Oranje spielt für den Gruppensieg. Klarer, deutlicher Sieg für die Niederlande."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "stats": {
+          "possession": {
+            "home": 29,
+            "away": 71
+          },
+          "shots": {
+            "home": 10,
+            "away": 20
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3358,6 +3694,30 @@
           }
         },
         "reasoning": "Vermutlich das Endspiel um Platz eins der Gruppe D im SoFi Stadium. Die USA mit Heimvorteil und athletischem Mittelfeld, die Türkei mit der feineren Klinge um Güler und Çalhanoğlu — zwei gleichwertige Teams mit unterschiedlichen Stärken. Wenn beiden ein Punkt reicht, endet das hier 1:1."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "shots": {
+            "home": 9,
+            "away": 18
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3397,6 +3757,30 @@
           }
         },
         "reasoning": "Zwei defensiv geprägte Teams im direkten Duell um den möglichen dritten Platz, der zum Weiterkommen reichen könnte. Paraguay hat die stabilere Defensive und mehr südamerikanische Cleverness in engen Spielen. Ein Standard oder Einzelfehler entscheidet — minimal Vorteil Albirroja."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 44,
+            "away": 56
+          },
+          "shots": {
+            "home": 7,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3436,6 +3820,30 @@
           }
         },
         "reasoning": "Das Gipfeltreffen der Gruppe I: Beide Teams makellos mit 6/6 Punkten. Norwegen 3:2 gegen Senegal (Haaland trifft), Frankreich 3:0 gegen Irak (defensiv stabil). Haaland gegen Mbappé. Frankreich hat in jeder Linie mehr Breite und blieb zuletzt ohne Gegentor — das gibt den knappen Ausschlag. Beide stehen im Achtelfinale, aber Frankreich gewinnt den Gruppensieger-Vergleich."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "stats": {
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "shots": {
+            "home": 10,
+            "away": 18
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3475,6 +3883,30 @@
           }
         },
         "reasoning": "Senegal braucht den Sieg fürs Achtelfinale und hat in allen Mannschaftsteilen mehr Qualität. Der Irak zeigte schon im Playoff gegen Bolivien (68% gegnerischer Ballbesitz, Quelle: Flashscore) seine passive Spielanlage — gegen Senegals Athletik führt das zu Dauerdruck. Verdienter, kontrollierter Sieg."
+      },
+      "actual": {
+        "score": {
+          "home": 5,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 69,
+            "away": 31
+          },
+          "shots": {
+            "home": 28,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3514,6 +3946,30 @@
           }
         },
         "reasoning": "Komplette Neubewertung nach Spieltag 2: Kap Verde trotzte Spanien ein 0:0 und holte ein 2:2 gegen Uruguay — die Cabo Sharks sind taktisch hervorragend und physisch stark, sie können Tore erzielen. Saudi-Arabien dagegen kassierte 0:4 gegen Spanien — eine komplette Demütigung. Kap Verde ist jetzt Favorit in diesem physischen Duell."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 51,
+            "away": 49
+          },
+          "shots": {
+            "home": 15,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3553,6 +4009,30 @@
           }
         },
         "reasoning": "Spanien hat mit dem 4:0 gegen Saudi-Arabien gezeigt: Der Tordrang ist jetzt da. Uruguay hat dagegen nach dem 2:2 gegen Kap Verde die Defensive-Lücken klar bloßgelegt. Spaniens Ballbesitz-Dominanz (72%+ in beiden Spielen) und Yamals Kreativität auf den Flügeln sind für Bielsa-Pressing zu komplex — klarer Sieg für den Europameister ohne Gegentor."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 33,
+            "away": 67
+          },
+          "shots": {
+            "home": 5,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3592,6 +4072,30 @@
           }
         },
         "reasoning": "Aufwertung für Ägypten nach Spieltag 2: Salah und Co. besiegten Neuseeland deutlich 3:1 — die Offensive ist endlich in Fahrt. Iran dagegen spielte gegen Belgien 0:0 und blieb ohne Treffer. Ägypten kontrolliert Spiele jetzt breiter, Iran hat strukturell Probleme zu treffen. Knapper ägyptischer Sieg."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "shots": {
+            "home": 15,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3631,6 +4135,30 @@
           }
         },
         "reasoning": "Belgien hat in zwei Spielen nur ein Tor erzielt (1:1 gegen Ägypten) und spielte 0:0 gegen Iran — die Offensive ist chronisch schwach. Neuseeland verlor zwar 1:3 gegen Ägypten, aber Belgiens Torarmut macht ein 3:0 unrealistisch. Belgien gewinnt durch Qualitätsmomente, aber kein Schützenfest erwartet."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 5
+        },
+        "stats": {
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "shots": {
+            "home": 6,
+            "away": 35
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -3865,6 +4393,357 @@
           }
         },
         "reasoning": "Argentinien ist nach Spieltag 2 makellos: 3:0 gegen Algerien, 2:0 gegen Österreich — 6/6 Punkte und in den letzten zwei Spielen kein Gegentor. Jordanien verlor beide Spiele ohne Weiterkommen-Chance, zuletzt 1:2 gegen Algerien. Messi und Co. spielen für die Tordifferenz und das Seeding — deutlicher Sieg des Weltmeisters."
+      }
+    },
+    {
+      "id": "EZmXxG15",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-06-28T21:00:00+02:00",
+      "home": {
+        "name": "Südafrika",
+        "flag": "🇿🇦"
+      },
+      "away": {
+        "name": "Kanada",
+        "flag": "🇨🇦"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 52,
+        "expectedStats": {
+          "possession": {
+            "home": 42,
+            "away": 58
+          },
+          "shots": {
+            "home": 8,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 5
+          },
+          "corners": {
+            "home": 3,
+            "away": 6
+          }
+        },
+        "reasoning": "Kanada ist laut Quoten klarer Favorit (1.72) und kam stark durch die Gruppe. Südafrika überraschte mit dem Sieg gegen Südkorea, ist offensiv aber harmlos (nur 1 Tor in der Gruppe). Im engen K.o.-Spiel setzt sich Kanadas höhere Qualität durch — ein Gegentor ist gegen Kanadas wacklige Abwehr aber drin."
+      }
+    },
+    {
+      "id": "f7ENGzPc",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-06-29T19:00:00+02:00",
+      "home": {
+        "name": "Brasilien",
+        "flag": "🇧🇷"
+      },
+      "away": {
+        "name": "Japan",
+        "flag": "🇯🇵"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 55,
+        "expectedStats": {
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shots": {
+            "home": 14,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 4
+          }
+        },
+        "reasoning": "Brasilien ist favorisiert (1.66), aber Japan hat in der Gruppe (u.a. 2:2 gegen die Niederlande) gezeigt, dass es jede Defensive knacken kann. Ein Clean Sheet ist gegen diese japanische Offensive unwahrscheinlich — Brasilien gewinnt, kassiert aber wohl ein Tor."
+      }
+    },
+    {
+      "id": "2y2UKhp1",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-06-29T22:30:00+02:00",
+      "home": {
+        "name": "Deutschland",
+        "flag": "🇩🇪"
+      },
+      "away": {
+        "name": "Paraguay",
+        "flag": "🇵🇾"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 56,
+        "expectedStats": {
+          "possession": {
+            "home": 62,
+            "away": 38
+          },
+          "shots": {
+            "home": 17,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 3
+          },
+          "corners": {
+            "home": 8,
+            "away": 3
+          }
+        },
+        "reasoning": "Deutschland ist haushoher Favorit (1.34) und offensiv eine Macht. Aber Achtung: Deutschland hat in JEDEM Gruppenspiel ein Gegentor kassiert (auch gegen Curaçao und Ecuador) — ein Clean Sheet wäre gegen die Form. Paraguay verteidigt extrem tief (0:0 gegen Australien) und kann über einen Konter treffen. Deutschland gewinnt, lässt hinten aber wieder etwas zu."
+      }
+    },
+    {
+      "id": "S0MygXWj",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-06-30T03:00:00+02:00",
+      "home": {
+        "name": "Niederlande",
+        "flag": "🇳🇱"
+      },
+      "away": {
+        "name": "Marokko",
+        "flag": "🇲🇦"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 48,
+        "expectedStats": {
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shots": {
+            "home": 12,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 5
+          },
+          "corners": {
+            "home": 5,
+            "away": 5
+          }
+        },
+        "reasoning": "Fast ausgeglichene Quoten (2.08 zu 3.85). Die Niederlande haben eine löchrige Abwehr (in jedem Gruppenspiel Gegentore), Marokko ist defensiv top organisiert und mit Hakimi auf den Flügeln gefährlich. Im engen Achtelfinale traue ich dem disziplinierteren Marokko die Überraschung zu."
+      }
+    },
+    {
+      "id": "tx2IC6G7",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-06-30T19:00:00+02:00",
+      "home": {
+        "name": "Elfenbeinküste",
+        "flag": "🇨🇮"
+      },
+      "away": {
+        "name": "Norwegen",
+        "flag": "🇳🇴"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 53,
+        "expectedStats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 10,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 5
+          },
+          "corners": {
+            "home": 5,
+            "away": 5
+          }
+        },
+        "reasoning": "Norwegen ist mit Haaland favorisiert (2.02) und in Topform. Die Elfenbeinküste ist athletisch ebenbürtig und trifft (u.a. gegen Deutschland), weshalb es kein Clean Sheet wird. Haalands Abschlussqualität gibt im engen Spiel den Ausschlag."
+      }
+    },
+    {
+      "id": "UN3MMEFl",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-06-30T23:00:00+02:00",
+      "home": {
+        "name": "Frankreich",
+        "flag": "🇫🇷"
+      },
+      "away": {
+        "name": "Schweden",
+        "flag": "🇸🇪"
+      },
+      "prediction": {
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "confidence": 60,
+        "expectedStats": {
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shots": {
+            "home": 16,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 4
+          },
+          "corners": {
+            "home": 7,
+            "away": 4
+          }
+        },
+        "reasoning": "Frankreich ist mit Quote 1.28 schwerer Favorit und in jeder Mannschaftslinie überlegen. Schweden hat mit Isak/Gyökeres aber eines der besten Sturmduos des Turniers (5:1 gegen Tunesien) und trifft fast immer. Klarer Sieg für Les Bleus, mit Gegentor."
+      }
+    },
+    {
+      "id": "A1Jughll",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-02T02:00:00+02:00",
+      "home": {
+        "name": "USA",
+        "flag": "🇺🇸"
+      },
+      "away": {
+        "name": "Bosnien-Herzegowina",
+        "flag": "🇧🇦"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 55,
+        "expectedStats": {
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shots": {
+            "home": 14,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 3
+          },
+          "corners": {
+            "home": 6,
+            "away": 4
+          }
+        },
+        "reasoning": "Die USA sind als Co-Gastgeber favorisiert (1.37) und kamen mit starken Auftritten durch die Gruppe (4:1, 2:0). Bosnien ist offensiv durchaus gefährlich (3:1 gegen Katar) und wird wohl treffen. Heimvorteil und die bessere Form sprechen aber klar für die USA."
+      }
+    },
+    {
+      "id": "Whg00tL7",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-03T20:00:00+02:00",
+      "home": {
+        "name": "Australien",
+        "flag": "🇦🇺"
+      },
+      "away": {
+        "name": "Ägypten",
+        "flag": "🇪🇬"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 50,
+        "expectedStats": {
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "shots": {
+            "home": 10,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 5
+          },
+          "corners": {
+            "home": 4,
+            "away": 6
+          }
+        },
+        "reasoning": "Das ausgeglichenste Achtelfinale (Quote 3.30 zu 2.46, leichter Vorteil Ägypten). Australien ist lauf- und kampfstark, Ägypten hat mit Salah den entscheidenden Unterschiedsspieler. In einem engen Spiel macht Salahs Klasse den Unterschied."
+      }
+    },
+    {
+      "id": "O4oeJu9d",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-04T00:00:00+02:00",
+      "home": {
+        "name": "Argentinien",
+        "flag": "🇦🇷"
+      },
+      "away": {
+        "name": "Kap Verde",
+        "flag": "🇨🇻"
+      },
+      "prediction": {
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "confidence": 66,
+        "expectedStats": {
+          "possession": {
+            "home": 66,
+            "away": 34
+          },
+          "shots": {
+            "home": 17,
+            "away": 4
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 1
+          },
+          "corners": {
+            "home": 8,
+            "away": 2
+          }
+        },
+        "reasoning": "Argentinien ist mit Quote 1.15 fast konkurrenzlos. Kap Verde verteidigt zwar extrem tief (0:0 gegen Spanien), ist aber offensiv das harmloseste verbliebene Team (kaum Tore). Hier ist ein Clean Sheet berechtigt — Argentiniens Abwehr stand in der Gruppe sicher, und Kap Verde wird kaum Chancen kreieren. Klarer Sieg des Weltmeisters."
       }
     }
   ]
