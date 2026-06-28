@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-27T18:46:07.896Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 27.6.2026)",
+  "generatedAt": "2026-06-28T19:17:41.161Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 28.6.2026)",
   "demo": false,
   "matches": [
     {
@@ -4198,6 +4198,30 @@
           }
         },
         "reasoning": "Showdown um Platz zwei der Gruppe L: Kroatiens alternde Ballbesitz-Maschine gegen Ghanas Umschalt-Athletik. Modrić kontrolliert das Tempo, aber Ghanas Tiefenläufe über Kudus sind genau das Gift gegen eine langsame kroatische Restverteidigung. Hochspannung — und ein Remis, das Kroatien wegen des direkten Vergleichs reichen könnte."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 53,
+            "away": 47
+          },
+          "shots": {
+            "home": 8,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4237,6 +4261,30 @@
           }
         },
         "reasoning": "England ist nach zwei Siegen vermutlich durch und rotiert — doch selbst die zweite englische Garde (Palmer, Gordon, Eze) übersteigt Panamas Niveau deutlich. Panama wirft alles rein, aber die individuelle Lücke lässt sich mit Kampf allein nicht schließen. Kontrollierter Sieg der Three Lions."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 2
+        },
+        "stats": {
+          "possession": {
+            "home": 33,
+            "away": 67
+          },
+          "shots": {
+            "home": 13,
+            "away": 17
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4276,6 +4324,30 @@
           }
         },
         "reasoning": "Das Spitzenspiel der Gruppe K — womöglich reicht beiden ein Punkt zum Weiterkommen. Díaz gegen seine FC-Porto-Vergangenheit, Ronaldo gegen seine womöglich letzte WM-Gruppenphase: Es gibt viele Geschichten, aber wenig taktisches Risiko zu erwarten. Leistungsgerechtes Remis zweier Achtelfinalisten."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shots": {
+            "home": 24,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4315,6 +4387,30 @@
           }
         },
         "reasoning": "Das Duell der beiden Außenseiter um den möglichen dritten Platz. Die DR Kongo hat die explosiveren Einzelspieler, Usbekistan das geordnetere Kollektiv. In einem Spiel, in dem beide gewinnen müssen, öffnen sich Räume — das kommt den kongolesischen Umschaltspielern entgegen."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "stats": {
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shots": {
+            "home": 19,
+            "away": 3
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4354,6 +4450,30 @@
           }
         },
         "reasoning": "Vermutlich das direkte Duell um Platz zwei hinter Argentinien. Österreichs Pressing zwingt Algeriens ballverliebte Spielweise zu Fehlern — Rangnicks System ist unangenehmer als jeder Einzelspieler. Algerien hat mit Mahrez die Moment-Qualität, aber Österreichs Kollektiv gewinnt die meisten Duelle dieser Art."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 3
+        },
+        "stats": {
+          "possession": {
+            "home": 65,
+            "away": 35
+          },
+          "shots": {
+            "home": 12,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4393,6 +4513,30 @@
           }
         },
         "reasoning": "Argentinien ist nach Spieltag 2 makellos: 3:0 gegen Algerien, 2:0 gegen Österreich — 6/6 Punkte und in den letzten zwei Spielen kein Gegentor. Jordanien verlor beide Spiele ohne Weiterkommen-Chance, zuletzt 1:2 gegen Algerien. Messi und Co. spielen für die Tordifferenz und das Seeding — deutlicher Sieg des Weltmeisters."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "stats": {
+          "possession": {
+            "home": 27,
+            "away": 73
+          },
+          "shots": {
+            "home": 5,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4744,6 +4888,279 @@
           }
         },
         "reasoning": "Argentinien ist mit Quote 1.15 fast konkurrenzlos. Kap Verde verteidigt zwar extrem tief (0:0 gegen Spanien), ist aber offensiv das harmloseste verbliebene Team (kaum Tore). Hier ist ein Clean Sheet berechtigt — Argentiniens Abwehr stand in der Gruppe sicher, und Kap Verde wird kaum Chancen kreieren. Klarer Sieg des Weltmeisters."
+      }
+    },
+    {
+      "id": "fydIxpfR",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-01T03:00:00+02:00",
+      "home": {
+        "name": "Mexiko",
+        "flag": "🇲🇽"
+      },
+      "away": {
+        "name": "Ecuador",
+        "flag": "🇪🇨"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 52,
+        "expectedStats": {
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shots": {
+            "home": 13,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 4
+          }
+        },
+        "reasoning": "Mexiko ist laut Quoten leicht favorisiert (2.22) und hat den enormen Heimvorteil im Estadio Banorte. Ecuador kommt aber mit Selbstvertrauen nach dem Sieg gegen Deutschland und ist defensiv top organisiert. Im engen Achtelfinale gibt die Kulisse den Ausschlag — Ecuador trifft aber, ein Clean Sheet ist unwahrscheinlich."
+      }
+    },
+    {
+      "id": "nkoQVAgB",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-01T18:00:00+02:00",
+      "home": {
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "away": {
+        "name": "DR Kongo",
+        "flag": "🇨🇩"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "confidence": 60,
+        "expectedStats": {
+          "possession": {
+            "home": 62,
+            "away": 38
+          },
+          "shots": {
+            "home": 16,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 2
+          },
+          "corners": {
+            "home": 8,
+            "away": 3
+          }
+        },
+        "reasoning": "England ist haushoher Favorit (1.24) und hat sich defensiv stabilisiert (zwei Spiele zu Null gegen Ghana und Panama). Anders als z.B. Deutschland hat England zuletzt bewiesen, dass es hinten dichthält. Die DR Kongo ist offensiv unberechenbar, beißt sich an Englands Abwehr aber die Zähne aus. Souveräner Sieg mit Clean Sheet."
+      }
+    },
+    {
+      "id": "vPsIXWOb",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-01T22:00:00+02:00",
+      "home": {
+        "name": "Belgien",
+        "flag": "🇧🇪"
+      },
+      "away": {
+        "name": "Senegal",
+        "flag": "🇸🇳"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 51,
+        "expectedStats": {
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shots": {
+            "home": 13,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 4
+          }
+        },
+        "reasoning": "Fast ausgeglichene Quoten (2.12 zu 3.70). Belgien zeigte mit dem 5:0 gegen Neuseeland seine Offensivkraft, Senegal mit dem 5:0 gegen Irak ebenfalls. Zwei wuchtige Teams — Belgien hat die etwas größere individuelle Klasse und setzt sich knapp durch, beide treffen."
+      }
+    },
+    {
+      "id": "jJucpA84",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-02T21:00:00+02:00",
+      "home": {
+        "name": "Spanien",
+        "flag": "🇪🇸"
+      },
+      "away": {
+        "name": "Österreich",
+        "flag": "🇦🇹"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 55,
+        "expectedStats": {
+          "possession": {
+            "home": 64,
+            "away": 36
+          },
+          "shots": {
+            "home": 16,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 4
+          },
+          "corners": {
+            "home": 7,
+            "away": 4
+          }
+        },
+        "reasoning": "Spanien ist klarer Favorit (1.27) und kontrolliert Spiele über Ballbesitz. Österreich hat aber in JEDEM Gruppenspiel getroffen (u.a. 3:3 gegen Algerien) und presst aggressiv unter Rangnick — ein Clean Sheet ist gegen diese Offensive unwahrscheinlich. Spanien gewinnt, kassiert aber ein Tor."
+      }
+    },
+    {
+      "id": "6BqAZhfn",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-03T01:00:00+02:00",
+      "home": {
+        "name": "Portugal",
+        "flag": "🇵🇹"
+      },
+      "away": {
+        "name": "Kroatien",
+        "flag": "🇭🇷"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 53,
+        "expectedStats": {
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shots": {
+            "home": 14,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 5
+          }
+        },
+        "reasoning": "Portugal ist favorisiert (1.76) und fand mit dem 5:0 gegen Usbekistan endlich seine Offensive. Kroatien um den ewigen Modrić ist in K.o.-Spielen immer gefährlich und trifft zuverlässig. Ein enges Spiel zweier Routiniers-Teams — Portugals höhere Kaderqualität gibt den Ausschlag."
+      }
+    },
+    {
+      "id": "rgxknWwh",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-03T05:00:00+02:00",
+      "home": {
+        "name": "Schweiz",
+        "flag": "🇨🇭"
+      },
+      "away": {
+        "name": "Algerien",
+        "flag": "🇩🇿"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 54,
+        "expectedStats": {
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shots": {
+            "home": 15,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 3
+          },
+          "corners": {
+            "home": 7,
+            "away": 4
+          }
+        },
+        "reasoning": "Die Schweiz ist favorisiert (1.86) und war über die Gruppenphase eines der spielstärksten Teams überhaupt (hohe xG-Werte). Algerien ist offensiv gefährlich, aber defensiv anfällig (3:3 gegen Österreich). Die Nati kontrolliert das Spiel und gewinnt, lässt hinten aber etwas zu."
+      }
+    },
+    {
+      "id": "IF40Fk9U",
+      "group": "Sechzehntelfinale",
+      "kickoff": "2026-07-04T03:30:00+02:00",
+      "home": {
+        "name": "Kolumbien",
+        "flag": "🇨🇴"
+      },
+      "away": {
+        "name": "Ghana",
+        "flag": "🇬🇭"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 53,
+        "expectedStats": {
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "shots": {
+            "home": 14,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 4
+          }
+        },
+        "reasoning": "Kolumbien ist favorisiert (1.52) und kam stark durch die Gruppe um Luis Díaz. Ghana hat mit Bundesliga-erprobter Offensive bewiesen, dass es trifft (u.a. gegen Kroatien). Kolumbiens höhere Qualität im letzten Drittel entscheidet ein offenes Spiel, Ghana verkürzt."
       }
     }
   ]
