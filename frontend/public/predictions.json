@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-28T19:17:41.161Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 28.6.2026)",
+  "generatedAt": "2026-07-02T07:34:23.337Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 2.7.2026)",
   "demo": false,
   "matches": [
     {
@@ -46,6 +46,7 @@
           "home": 2,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 61,
@@ -109,6 +110,7 @@
           "home": 2,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 61,
@@ -172,6 +174,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 61,
@@ -235,6 +238,7 @@
           "home": 4,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 65,
@@ -298,6 +302,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 32,
@@ -361,6 +366,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 51,
@@ -424,6 +430,7 @@
           "home": 0,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 54,
@@ -487,6 +494,7 @@
           "home": 2,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 28,
@@ -550,6 +558,7 @@
           "home": 7,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 65,
@@ -613,6 +622,7 @@
           "home": 2,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 60,
@@ -676,6 +686,7 @@
           "home": 1,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 48,
@@ -739,6 +750,7 @@
           "home": 5,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 49,
@@ -802,6 +814,7 @@
           "home": 0,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 74,
@@ -865,6 +878,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 54,
@@ -928,6 +942,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 33,
@@ -991,6 +1006,7 @@
           "home": 2,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 48,
@@ -1054,6 +1070,7 @@
           "home": 3,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 53,
@@ -1117,6 +1134,7 @@
           "home": 1,
           "away": 4
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 39,
@@ -1180,6 +1198,7 @@
           "home": 3,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 48,
@@ -1243,6 +1262,7 @@
           "home": 3,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 63,
@@ -1306,6 +1326,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 75,
@@ -1369,6 +1390,7 @@
           "home": 4,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 52,
@@ -1432,6 +1454,7 @@
           "home": 1,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 38,
@@ -1495,6 +1518,7 @@
           "home": 1,
           "away": 3
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 39,
@@ -1558,6 +1582,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 38,
@@ -1621,6 +1646,7 @@
           "home": 4,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 62,
@@ -1684,6 +1710,7 @@
           "home": 6,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 79,
@@ -1747,6 +1774,7 @@
           "home": 1,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 42,
@@ -1810,6 +1838,7 @@
           "home": 2,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 62,
@@ -1873,6 +1902,7 @@
           "home": 0,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 41,
@@ -1936,6 +1966,7 @@
           "home": 3,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 57,
@@ -1999,6 +2030,7 @@
           "home": 0,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 79,
@@ -2062,6 +2094,7 @@
           "home": 5,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 51,
@@ -2125,6 +2158,7 @@
           "home": 2,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 59,
@@ -2188,6 +2222,7 @@
           "home": 0,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 75,
@@ -2251,6 +2286,7 @@
           "home": 0,
           "away": 4
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 38,
@@ -2314,6 +2350,7 @@
           "home": 4,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 67,
@@ -2377,6 +2414,7 @@
           "home": 0,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 70,
@@ -2440,6 +2478,7 @@
           "home": 2,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 65,
@@ -2503,6 +2542,7 @@
           "home": 1,
           "away": 3
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 44,
@@ -2566,6 +2606,7 @@
           "home": 2,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 54,
@@ -2629,6 +2670,7 @@
           "home": 3,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 56,
@@ -2692,6 +2734,7 @@
           "home": 3,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 42,
@@ -2755,6 +2798,7 @@
           "home": 1,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 28,
@@ -2818,6 +2862,7 @@
           "home": 5,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 66,
@@ -2881,6 +2926,7 @@
           "home": 0,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 79,
@@ -2944,6 +2990,7 @@
           "home": 0,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 42,
@@ -3007,6 +3054,7 @@
           "home": 1,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 64,
@@ -3070,6 +3118,7 @@
           "home": 2,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 55,
@@ -3133,6 +3182,7 @@
           "home": 3,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 54,
@@ -3196,6 +3246,7 @@
           "home": 4,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 69,
@@ -3259,6 +3310,7 @@
           "home": 0,
           "away": 3
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 46,
@@ -3322,6 +3374,7 @@
           "home": 0,
           "away": 3
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 52,
@@ -3385,6 +3438,7 @@
           "home": 1,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 32,
@@ -3448,6 +3502,7 @@
           "home": 0,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 37,
@@ -3511,6 +3566,7 @@
           "home": 2,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 39,
@@ -3574,6 +3630,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 52,
@@ -3637,6 +3694,7 @@
           "home": 1,
           "away": 3
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 29,
@@ -3700,6 +3758,7 @@
           "home": 3,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 47,
@@ -3763,6 +3822,7 @@
           "home": 0,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 44,
@@ -3826,6 +3886,7 @@
           "home": 1,
           "away": 4
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 43,
@@ -3889,6 +3950,7 @@
           "home": 5,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 69,
@@ -3952,6 +4014,7 @@
           "home": 0,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 51,
@@ -4015,6 +4078,7 @@
           "home": 0,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 33,
@@ -4078,6 +4142,7 @@
           "home": 1,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 61,
@@ -4141,6 +4206,7 @@
           "home": 1,
           "away": 5
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 46,
@@ -4204,6 +4270,7 @@
           "home": 2,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 53,
@@ -4267,6 +4334,7 @@
           "home": 0,
           "away": 2
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 33,
@@ -4330,6 +4398,7 @@
           "home": 0,
           "away": 0
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 55,
@@ -4393,6 +4462,7 @@
           "home": 3,
           "away": 1
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 58,
@@ -4456,6 +4526,7 @@
           "home": 3,
           "away": 3
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 65,
@@ -4519,6 +4590,7 @@
           "home": 1,
           "away": 3
         },
+        "status": "FINISHED",
         "stats": {
           "possession": {
             "home": 27,
@@ -4576,6 +4648,31 @@
           }
         },
         "reasoning": "Kanada ist laut Quoten klarer Favorit (1.72) und kam stark durch die Gruppe. Südafrika überraschte mit dem Sieg gegen Südkorea, ist offensiv aber harmlos (nur 1 Tor in der Gruppe). Im engen K.o.-Spiel setzt sich Kanadas höhere Qualität durch — ein Gegentor ist gegen Kanadas wacklige Abwehr aber drin."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shots": {
+            "home": 6,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4615,6 +4712,31 @@
           }
         },
         "reasoning": "Brasilien ist favorisiert (1.66), aber Japan hat in der Gruppe (u.a. 2:2 gegen die Niederlande) gezeigt, dass es jede Defensive knacken kann. Ein Clean Sheet ist gegen diese japanische Offensive unwahrscheinlich — Brasilien gewinnt, kassiert aber wohl ein Tor."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 69,
+            "away": 31
+          },
+          "shots": {
+            "home": 19,
+            "away": 5
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4654,6 +4776,31 @@
           }
         },
         "reasoning": "Deutschland ist haushoher Favorit (1.34) und offensiv eine Macht. Aber Achtung: Deutschland hat in JEDEM Gruppenspiel ein Gegentor kassiert (auch gegen Curaçao und Ecuador) — ein Clean Sheet wäre gegen die Form. Paraguay verteidigt extrem tief (0:0 gegen Australien) und kann über einen Konter treffen. Deutschland gewinnt, lässt hinten aber wieder etwas zu."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "AFTER EXTRA TIME",
+        "stats": {
+          "possession": {
+            "home": 76,
+            "away": 24
+          },
+          "shots": {
+            "home": 21,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4693,6 +4840,31 @@
           }
         },
         "reasoning": "Fast ausgeglichene Quoten (2.08 zu 3.85). Die Niederlande haben eine löchrige Abwehr (in jedem Gruppenspiel Gegentore), Marokko ist defensiv top organisiert und mit Hakimi auf den Flügeln gefährlich. Im engen Achtelfinale traue ich dem disziplinierteren Marokko die Überraschung zu."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "AFTER EXTRA TIME",
+        "stats": {
+          "possession": {
+            "home": 30,
+            "away": 70
+          },
+          "shots": {
+            "home": 6,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4732,6 +4904,31 @@
           }
         },
         "reasoning": "Norwegen ist mit Haaland favorisiert (2.02) und in Topform. Die Elfenbeinküste ist athletisch ebenbürtig und trifft (u.a. gegen Deutschland), weshalb es kein Clean Sheet wird. Haalands Abschlussqualität gibt im engen Spiel den Ausschlag."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "shots": {
+            "home": 14,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4771,6 +4968,31 @@
           }
         },
         "reasoning": "Frankreich ist mit Quote 1.28 schwerer Favorit und in jeder Mannschaftslinie überlegen. Schweden hat mit Isak/Gyökeres aber eines der besten Sturmduos des Turniers (5:1 gegen Tunesien) und trifft fast immer. Klarer Sieg für Les Bleus, mit Gegentor."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "shots": {
+            "home": 25,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4810,6 +5032,31 @@
           }
         },
         "reasoning": "Die USA sind als Co-Gastgeber favorisiert (1.37) und kamen mit starken Auftritten durch die Gruppe (4:1, 2:0). Bosnien ist offensiv durchaus gefährlich (3:1 gegen Katar) und wird wohl treffen. Heimvorteil und die bessere Form sprechen aber klar für die USA."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 8,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4927,6 +5174,31 @@
           }
         },
         "reasoning": "Mexiko ist laut Quoten leicht favorisiert (2.22) und hat den enormen Heimvorteil im Estadio Banorte. Ecuador kommt aber mit Selbstvertrauen nach dem Sieg gegen Deutschland und ist defensiv top organisiert. Im engen Achtelfinale gibt die Kulisse den Ausschlag — Ecuador trifft aber, ein Clean Sheet ist unwahrscheinlich."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "shots": {
+            "home": 15,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -4966,6 +5238,31 @@
           }
         },
         "reasoning": "England ist haushoher Favorit (1.24) und hat sich defensiv stabilisiert (zwei Spiele zu Null gegen Ghana und Panama). Anders als z.B. Deutschland hat England zuletzt bewiesen, dass es hinten dichthält. Die DR Kongo ist offensiv unberechenbar, beißt sich an Englands Abwehr aber die Zähne aus. Souveräner Sieg mit Clean Sheet."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 60,
+            "away": 40
+          },
+          "shots": {
+            "home": 16,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5005,6 +5302,31 @@
           }
         },
         "reasoning": "Fast ausgeglichene Quoten (2.12 zu 3.70). Belgien zeigte mit dem 5:0 gegen Neuseeland seine Offensivkraft, Senegal mit dem 5:0 gegen Irak ebenfalls. Zwei wuchtige Teams — Belgien hat die etwas größere individuelle Klasse und setzt sich knapp durch, beide treffen."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "status": "AFTER EXTRA TIME",
+        "stats": {
+          "possession": {
+            "home": 52,
+            "away": 48
+          },
+          "shots": {
+            "home": 19,
+            "away": 19
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5161,6 +5483,201 @@
           }
         },
         "reasoning": "Kolumbien ist favorisiert (1.52) und kam stark durch die Gruppe um Luis Díaz. Ghana hat mit Bundesliga-erprobter Offensive bewiesen, dass es trifft (u.a. gegen Kroatien). Kolumbiens höhere Qualität im letzten Drittel entscheidet ein offenes Spiel, Ghana verkürzt."
+      }
+    },
+    {
+      "id": "pUYfr7u3",
+      "group": "Achtelfinale",
+      "kickoff": "2026-07-04T19:00:00+02:00",
+      "home": {
+        "name": "Kanada",
+        "flag": "🇨🇦"
+      },
+      "away": {
+        "name": "Marokko",
+        "flag": "🇲🇦"
+      },
+      "prediction": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "confidence": 50,
+        "expectedStats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 9,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 4
+          },
+          "corners": {
+            "home": 4,
+            "away": 5
+          }
+        },
+        "reasoning": "Marokko ist laut Quoten klarer Favorit (1.76) — und das als Auswärtsteam gegen den Co-Gastgeber. Die Atlas-Löwen haben gerade die Niederlande eliminiert und sind defensiv das beste Team des Turniers. Kanada hat im K.o.-Spiel gegen Südafrika nur 1 Tor erzielt — gegen Marokkos Abwehrblock wird das kaum reichen. Enges, zähes Spiel mit einem späten marokkanischen Tor."
+      }
+    },
+    {
+      "id": "M5YPKKbB",
+      "group": "Achtelfinale",
+      "kickoff": "2026-07-04T23:00:00+02:00",
+      "home": {
+        "name": "Paraguay",
+        "flag": "🇵🇾"
+      },
+      "away": {
+        "name": "Frankreich",
+        "flag": "🇫🇷"
+      },
+      "prediction": {
+        "score": {
+          "home": 0,
+          "away": 2
+        },
+        "confidence": 62,
+        "expectedStats": {
+          "possession": {
+            "home": 35,
+            "away": 65
+          },
+          "shots": {
+            "home": 6,
+            "away": 16
+          },
+          "shotsOnTarget": {
+            "home": 2,
+            "away": 7
+          },
+          "corners": {
+            "home": 2,
+            "away": 7
+          }
+        },
+        "reasoning": "Extremere Quoten gibt es kaum: Frankreich 1.17, Paraguay 20.00. Paraguay hat sensationell Deutschland im Elfmeterschießen eliminiert, aber der Fußball ist destruktiv: nur 2 Tore in 4 Spielen. Frankreich trifft dagegen in jedem Spiel mehrfach (u.a. 4:1 gegen Norwegen, 3:0 gegen Schweden). Ein Clean Sheet ist gegen Paraguays harmlose Offensive berechtigt — Frankreich kontrolliert und gewinnt klar."
+      }
+    },
+    {
+      "id": "tpOhKWcC",
+      "group": "Achtelfinale",
+      "kickoff": "2026-07-05T22:00:00+02:00",
+      "home": {
+        "name": "Brasilien",
+        "flag": "🇧🇷"
+      },
+      "away": {
+        "name": "Norwegen",
+        "flag": "🇳🇴"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 52,
+        "expectedStats": {
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shots": {
+            "home": 14,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 3
+          }
+        },
+        "reasoning": "Brasilien ist favorisiert (1.88), aber Norwegen mit Haaland ist der unangenehmste mögliche Gegner: physisch, direkt, mit dem besten Vollstrecker des Turniers. Haaland trifft fast immer — ein Clean Sheet ist unrealistisch. Brasiliens breiterer Kader und die Selecao-Form (2:1 gegen Japan, davor zwei 3:0) geben den Ausschlag in einem offenen Spiel."
+      }
+    },
+    {
+      "id": "bc27lzfo",
+      "group": "Achtelfinale",
+      "kickoff": "2026-07-06T02:00:00+02:00",
+      "home": {
+        "name": "Mexiko",
+        "flag": "🇲🇽"
+      },
+      "away": {
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 48,
+        "expectedStats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 10,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 5
+          },
+          "corners": {
+            "home": 4,
+            "away": 6
+          }
+        },
+        "reasoning": "Das engste Spiel der Runde (Quoten 3.05/3.10/2.50). Mexiko ist zuhause eine Macht — erst 1 Gegentor im ganzen Turnier und vier Siege. England hat aber die höhere individuelle Klasse (Bellingham, Kane, Saka) und in K.o.-Spielen mehr Optionen von der Bank. Hauchdünner englischer Sieg gegen die Heimkulisse — mit niedrigster Confidence der Runde."
+      }
+    },
+    {
+      "id": "xhRXm8PG",
+      "group": "Achtelfinale",
+      "kickoff": "2026-07-07T02:00:00+02:00",
+      "home": {
+        "name": "USA",
+        "flag": "🇺🇸"
+      },
+      "away": {
+        "name": "Belgien",
+        "flag": "🇧🇪"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 52,
+        "expectedStats": {
+          "possession": {
+            "home": 52,
+            "away": 48
+          },
+          "shots": {
+            "home": 13,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 5
+          }
+        },
+        "reasoning": "Fast ausgeglichene Quoten (2.56 zu 2.70), leichter Vorteil für die USA durch den Heimvorteil. Die US-Boys sind athletisch top und haben nur gegen die Türkei verloren. Belgien braucht offensiv immer wieder lange Anlaufzeit und kassiert viel (5 Gegentore in den letzten 2 Spielen). Beide treffen — der Heimvorteil entscheidet ein enges Duell."
       }
     }
   ]
