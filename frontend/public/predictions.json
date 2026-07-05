@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-02T07:34:23.337Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 2.7.2026)",
+  "generatedAt": "2026-07-05T11:20:15.932Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 5.7.2026)",
   "demo": false,
   "matches": [
     {
@@ -5096,6 +5096,32 @@
           }
         },
         "reasoning": "Das ausgeglichenste Achtelfinale (Quote 3.30 zu 2.46, leichter Vorteil Ägypten). Australien ist lauf- und kampfstark, Ägypten hat mit Salah den entscheidenden Unterschiedsspieler. In einem engen Spiel macht Salahs Klasse den Unterschied."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "AFTER EXTRA TIME",
+        "stats": {
+          "possession": {
+            "home": 42,
+            "away": 58
+          },
+          "shots": {
+            "home": 16,
+            "away": 14
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        },
+        "penalties": "2-4"
       }
     },
     {
@@ -5135,6 +5161,31 @@
           }
         },
         "reasoning": "Argentinien ist mit Quote 1.15 fast konkurrenzlos. Kap Verde verteidigt zwar extrem tief (0:0 gegen Spanien), ist aber offensiv das harmloseste verbliebene Team (kaum Tore). Hier ist ein Clean Sheet berechtigt — Argentiniens Abwehr stand in der Gruppe sicher, und Kap Verde wird kaum Chancen kreieren. Klarer Sieg des Weltmeisters."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "status": "AFTER EXTRA TIME",
+        "stats": {
+          "possession": {
+            "home": 64,
+            "away": 36
+          },
+          "shots": {
+            "home": 22,
+            "away": 16
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5366,6 +5417,31 @@
           }
         },
         "reasoning": "Spanien ist klarer Favorit (1.27) und kontrolliert Spiele über Ballbesitz. Österreich hat aber in JEDEM Gruppenspiel getroffen (u.a. 3:3 gegen Algerien) und presst aggressiv unter Rangnick — ein Clean Sheet ist gegen diese Offensive unwahrscheinlich. Spanien gewinnt, kassiert aber ein Tor."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 64,
+            "away": 36
+          },
+          "shots": {
+            "home": 23,
+            "away": 5
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5405,6 +5481,31 @@
           }
         },
         "reasoning": "Portugal ist favorisiert (1.76) und fand mit dem 5:0 gegen Usbekistan endlich seine Offensive. Kroatien um den ewigen Modrić ist in K.o.-Spielen immer gefährlich und trifft zuverlässig. Ein enges Spiel zweier Routiniers-Teams — Portugals höhere Kaderqualität gibt den Ausschlag."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 60,
+            "away": 40
+          },
+          "shots": {
+            "home": 15,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5444,6 +5545,31 @@
           }
         },
         "reasoning": "Die Schweiz ist favorisiert (1.86) und war über die Gruppenphase eines der spielstärksten Teams überhaupt (hohe xG-Werte). Algerien ist offensiv gefährlich, aber defensiv anfällig (3:3 gegen Österreich). Die Nati kontrolliert das Spiel und gewinnt, lässt hinten aber etwas zu."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 45,
+            "away": 55
+          },
+          "shots": {
+            "home": 11,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5483,6 +5609,31 @@
           }
         },
         "reasoning": "Kolumbien ist favorisiert (1.52) und kam stark durch die Gruppe um Luis Díaz. Ghana hat mit Bundesliga-erprobter Offensive bewiesen, dass es trifft (u.a. gegen Kroatien). Kolumbiens höhere Qualität im letzten Drittel entscheidet ein offenes Spiel, Ghana verkürzt."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "shots": {
+            "home": 20,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5522,6 +5673,31 @@
           }
         },
         "reasoning": "Marokko ist laut Quoten klarer Favorit (1.76) — und das als Auswärtsteam gegen den Co-Gastgeber. Die Atlas-Löwen haben gerade die Niederlande eliminiert und sind defensiv das beste Team des Turniers. Kanada hat im K.o.-Spiel gegen Südafrika nur 1 Tor erzielt — gegen Marokkos Abwehrblock wird das kaum reichen. Enges, zähes Spiel mit einem späten marokkanischen Tor."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 3
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 45,
+            "away": 55
+          },
+          "shots": {
+            "home": 10,
+            "away": 5
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5561,6 +5737,31 @@
           }
         },
         "reasoning": "Extremere Quoten gibt es kaum: Frankreich 1.17, Paraguay 20.00. Paraguay hat sensationell Deutschland im Elfmeterschießen eliminiert, aber der Fußball ist destruktiv: nur 2 Tore in 4 Spielen. Frankreich trifft dagegen in jedem Spiel mehrfach (u.a. 4:1 gegen Norwegen, 3:0 gegen Schweden). Ein Clean Sheet ist gegen Paraguays harmlose Offensive berechtigt — Frankreich kontrolliert und gewinnt klar."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 24,
+            "away": 76
+          },
+          "shots": {
+            "home": 5,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5619,7 +5820,7 @@
           "home": 1,
           "away": 2
         },
-        "confidence": 48,
+        "confidence": 52,
         "expectedStats": {
           "possession": {
             "home": 48,
@@ -5638,7 +5839,7 @@
             "away": 6
           }
         },
-        "reasoning": "Das engste Spiel der Runde (Quoten 3.05/3.10/2.50). Mexiko ist zuhause eine Macht — erst 1 Gegentor im ganzen Turnier und vier Siege. England hat aber die höhere individuelle Klasse (Bellingham, Kane, Saka) und in K.o.-Spielen mehr Optionen von der Bank. Hauchdünner englischer Sieg gegen die Heimkulisse — mit niedrigster Confidence der Runde."
+        "reasoning": "Mexiko ist zuhause eine Festung: null Gegentore in vier Turnierspielen (2:0, 1:0, 3:0, 2:0 im Sechzehntelfinale gegen Ecuador). England ist aber offensiv das dominantere Team im Feld — in allen vier Spielen deutlich höhere Expected Goals (Schnitt ca. 2,1 xG, u.a. 3,21 gegen Kroatien, 2,15 im Sechzehntelfinale gegen die DR Kongo) bei ähnlich stabiler Defensive (Schnitt ca. 0,6 xG-Gegentore). Mexikos Offensive bleibt dagegen im Turnierschnitt bei nur ca. 1,2 xG. Die Quoten (3.15/3.20/2.40) und unsere Statistik zeigen in die gleiche Richtung: England hat die höhere Torgefahr, Mexiko lebt von einer bislang makellosen Abwehr, die aber gegen die beste Offensive der K.o.-Runde erstmals wirklich gefordert wird."
       }
     },
     {
@@ -5658,7 +5859,7 @@
           "home": 2,
           "away": 1
         },
-        "confidence": 52,
+        "confidence": 54,
         "expectedStats": {
           "possession": {
             "home": 52,
@@ -5677,7 +5878,163 @@
             "away": 5
           }
         },
-        "reasoning": "Fast ausgeglichene Quoten (2.56 zu 2.70), leichter Vorteil für die USA durch den Heimvorteil. Die US-Boys sind athletisch top und haben nur gegen die Türkei verloren. Belgien braucht offensiv immer wieder lange Anlaufzeit und kassiert viel (5 Gegentore in den letzten 2 Spielen). Beide treffen — der Heimvorteil entscheidet ein enges Duell."
+        "reasoning": "Belgiens Defensive zeigte im Sechzehntelfinale gegen den Senegal (3:2) den größten xG-Gegentore-Wert des gesamten Turniers (3,58 xG zugelassen) — nur eine starke individuelle Leistung im Tor verhinderte ein noch höheres Gegentorkonto. Die USA sind dagegen defensiv die konstanteste Mannschaft im Feld (im Schnitt nur ca. 0,55 xG-Gegentore über drei von vier Spielen, Ausnahme die 2:3-Niederlage gegen die Türkei) und kamen im Sechzehntelfinale gegen Bosnien-Herzegowina zu einem kontrollierten 2:0. Belgiens Offensive bleibt aber brandgefährlich (3 Tore trotz chaotischer Abwehrleistung) — bei nahezu identischen Quoten (2.60/3.55/2.60) sprechen die defensiven Kennzahlen für einen knappen USA-Vorteil in einem torreichen Spiel."
+      }
+    },
+    {
+      "id": "bodsDyte",
+      "group": "Achtelfinale",
+      "kickoff": "2026-07-07T18:00:00+02:00",
+      "home": {
+        "name": "Argentinien",
+        "flag": "🇦🇷"
+      },
+      "away": {
+        "name": "Ägypten",
+        "flag": "🇪🇬"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 64,
+        "expectedStats": {
+          "possession": {
+            "home": 60,
+            "away": 40
+          },
+          "shots": {
+            "home": 16,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 3
+          },
+          "corners": {
+            "home": 6,
+            "away": 3
+          }
+        },
+        "reasoning": "Argentinien dominiert das Turnier statistisch: Schnitt ca. 2,0 xG erzielt, nur ca. 0,52 xG zugelassen über vier Spiele, ungeschlagen. Selbst der knappe 3:2-Erfolg gegen Kap Verde war klar überlegen (2,26 zu 0,47 xG, 64% Ballbesitz, 22 Schüsse). Ägypten dagegen kam nur per Elfmeterkrimi (2-4 n.E.) gegen ein schwächeres Australien weiter und leckt defensiv fast so viel xG wie es selbst erzeugt (Schnitt je ca. 1,3). Die Quote (1.36) und unsere Analyse decken sich: klarer Favorit Argentinien, aber Ägypten trifft in jedem Spiel — daher kein zu Null."
+      }
+    },
+    {
+      "id": "EmgOlMbT",
+      "group": "Achtelfinale",
+      "kickoff": "2026-07-07T22:00:00+02:00",
+      "home": {
+        "name": "Schweiz",
+        "flag": "🇨🇭"
+      },
+      "away": {
+        "name": "Kolumbien",
+        "flag": "🇨🇴"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 46,
+        "expectedStats": {
+          "possession": {
+            "home": 45,
+            "away": 55
+          },
+          "shots": {
+            "home": 13,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 6
+          },
+          "corners": {
+            "home": 5,
+            "away": 6
+          }
+        },
+        "reasoning": "Die Schweiz erzeugt im Schnitt die meisten xG des Feldes (ca. 2,2), verwertet sie aber schwach (3,20 xG reichten gegen Katar nur zu einem 1:1) und zeigte gegen Kanada defensive Lücken (1,66 xG zugelassen beim knappen 2:1). Kolumbien ist zwar offensiv weniger effektstark (Schnitt ca. 1,58 xG), aber deutlich effizienter und stabiler hinten (nur ca. 0,68 xG zugelassen im Schnitt) — bestes Spiel zuletzt im Sechzehntelfinale gegen Ghana (2,04 zu 0,27 xG). Die Buchmacher sehen Kolumbien leicht vorn (2.24 zu 3.50), unsere Statistik bestätigt das tendenziell über die konstantere Defensive, auch wenn die Schweizer Chancenflut das Spiel offenhält."
+      }
+    },
+    {
+      "id": "tbTsReVa",
+      "group": "Achtelfinale",
+      "kickoff": "2026-07-06T21:00:00+02:00",
+      "home": {
+        "name": "Portugal",
+        "flag": "🇵🇹"
+      },
+      "away": {
+        "name": "Spanien",
+        "flag": "🇪🇸"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 62,
+        "expectedStats": {
+          "possession": {
+            "home": 38,
+            "away": 62
+          },
+          "shots": {
+            "home": 9,
+            "away": 16
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 7
+          },
+          "corners": {
+            "home": 3,
+            "away": 7
+          }
+        },
+        "reasoning": "Spanien hat die mit Abstand beste Defensivbilanz des Turniers: im Schnitt nur ca. 0,22 xG zugelassen bei gleichzeitig ca. 2,0 xG erzielt in jedem der vier bisherigen Spiele — zuletzt 2,80 zu 0,32 xG im Sechzehntelfinale gegen Österreich (3:0). Portugal ist unbeständiger: 5:0 gegen ein schwaches Usbekistan, aber torlos gegen Kolumbiens Abwehrblock (0,92 zu 1,70 xG) und wackelig im Sechzehntelfinale gegen Kroatien (1,34 xG zugelassen beim 2:1). Die Quoten (1.88 für Spanien) und unsere Analyse stimmen überein: Spanien ist der klare Favorit, Portugal braucht seine Ronaldo-Effizienz gegen die stabilste Defensive des Feldes."
+      }
+    },
+    {
+      "id": "jJ5yWPhU",
+      "group": "Viertelfinale",
+      "kickoff": "2026-07-09T22:00:00+02:00",
+      "home": {
+        "name": "Frankreich",
+        "flag": "🇫🇷"
+      },
+      "away": {
+        "name": "Marokko",
+        "flag": "🇲🇦"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 58,
+        "expectedStats": {
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shots": {
+            "home": 15,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 4
+          }
+        },
+        "reasoning": "Frankreich ist über fünf Turnierspiele das statistisch stärkste Team im Feld: Schnitt ca. 2,1 xG erzielt (u.a. 3,24 im Sechzehntelfinale gegen Schweden) bei nur ca. 0,74 xG zugelassen, zuletzt ein souveränes 1:0 im Achtelfinale gegen Paraguay (1,46 zu 0,13 xG). Marokko hat sich dagegen durch Resilienz statt Dominanz durchgesetzt — Remis gegen Brasilien und die Niederlande, im Achtelfinale ein 3:0 gegen Kanada trotz niedrigerer xG-Werte (0,82 zu 0,84) als Chancenverwerter. Die Quote (1.56) und unsere Statistik zeigen Frankreich klar vorn, aber Marokkos Fähigkeit, gegen große Teams Punkte zu holen, macht ein Gegentor wahrscheinlich."
       }
     }
   ]
