@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-05T11:20:15.932Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 5.7.2026)",
+  "generatedAt": "2026-07-07T09:25:36.040Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 7.7.2026)",
   "demo": false,
   "matches": [
     {
@@ -5801,6 +5801,31 @@
           }
         },
         "reasoning": "Brasilien ist favorisiert (1.88), aber Norwegen mit Haaland ist der unangenehmste mögliche Gegner: physisch, direkt, mit dem besten Vollstrecker des Turniers. Haaland trifft fast immer — ein Clean Sheet ist unrealistisch. Brasiliens breiterer Kader und die Selecao-Form (2:1 gegen Japan, davor zwei 3:0) geben den Ausschlag in einem offenen Spiel."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 34,
+            "away": 66
+          },
+          "shots": {
+            "home": 14,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5840,6 +5865,31 @@
           }
         },
         "reasoning": "Mexiko ist zuhause eine Festung: null Gegentore in vier Turnierspielen (2:0, 1:0, 3:0, 2:0 im Sechzehntelfinale gegen Ecuador). England ist aber offensiv das dominantere Team im Feld — in allen vier Spielen deutlich höhere Expected Goals (Schnitt ca. 2,1 xG, u.a. 3,21 gegen Kroatien, 2,15 im Sechzehntelfinale gegen die DR Kongo) bei ähnlich stabiler Defensive (Schnitt ca. 0,6 xG-Gegentore). Mexikos Offensive bleibt dagegen im Turnierschnitt bei nur ca. 1,2 xG. Die Quoten (3.15/3.20/2.40) und unsere Statistik zeigen in die gleiche Richtung: England hat die höhere Torgefahr, Mexiko lebt von einer bislang makellosen Abwehr, die aber gegen die beste Offensive der K.o.-Runde erstmals wirklich gefordert wird."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 67,
+            "away": 33
+          },
+          "shots": {
+            "home": 20,
+            "away": 6
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5879,6 +5929,31 @@
           }
         },
         "reasoning": "Belgiens Defensive zeigte im Sechzehntelfinale gegen den Senegal (3:2) den größten xG-Gegentore-Wert des gesamten Turniers (3,58 xG zugelassen) — nur eine starke individuelle Leistung im Tor verhinderte ein noch höheres Gegentorkonto. Die USA sind dagegen defensiv die konstanteste Mannschaft im Feld (im Schnitt nur ca. 0,55 xG-Gegentore über drei von vier Spielen, Ausnahme die 2:3-Niederlage gegen die Türkei) und kamen im Sechzehntelfinale gegen Bosnien-Herzegowina zu einem kontrollierten 2:0. Belgiens Offensive bleibt aber brandgefährlich (3 Tore trotz chaotischer Abwehrleistung) — bei nahezu identischen Quoten (2.60/3.55/2.60) sprechen die defensiven Kennzahlen für einen knappen USA-Vorteil in einem torreichen Spiel."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "shots": {
+            "home": 7,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -5996,6 +6071,31 @@
           }
         },
         "reasoning": "Spanien hat die mit Abstand beste Defensivbilanz des Turniers: im Schnitt nur ca. 0,22 xG zugelassen bei gleichzeitig ca. 2,0 xG erzielt in jedem der vier bisherigen Spiele — zuletzt 2,80 zu 0,32 xG im Sechzehntelfinale gegen Österreich (3:0). Portugal ist unbeständiger: 5:0 gegen ein schwaches Usbekistan, aber torlos gegen Kolumbiens Abwehrblock (0,92 zu 1,70 xG) und wackelig im Sechzehntelfinale gegen Kroatien (1,34 xG zugelassen beim 2:1). Die Quoten (1.88 für Spanien) und unsere Analyse stimmen überein: Spanien ist der klare Favorit, Portugal braucht seine Ronaldo-Effizienz gegen die stabilste Defensive des Feldes."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 45,
+            "away": 55
+          },
+          "shots": {
+            "home": 10,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -6035,6 +6135,84 @@
           }
         },
         "reasoning": "Frankreich ist über fünf Turnierspiele das statistisch stärkste Team im Feld: Schnitt ca. 2,1 xG erzielt (u.a. 3,24 im Sechzehntelfinale gegen Schweden) bei nur ca. 0,74 xG zugelassen, zuletzt ein souveränes 1:0 im Achtelfinale gegen Paraguay (1,46 zu 0,13 xG). Marokko hat sich dagegen durch Resilienz statt Dominanz durchgesetzt — Remis gegen Brasilien und die Niederlande, im Achtelfinale ein 3:0 gegen Kanada trotz niedrigerer xG-Werte (0,82 zu 0,84) als Chancenverwerter. Die Quote (1.56) und unsere Statistik zeigen Frankreich klar vorn, aber Marokkos Fähigkeit, gegen große Teams Punkte zu holen, macht ein Gegentor wahrscheinlich."
+      }
+    },
+    {
+      "id": "MHGPEKi5",
+      "group": "Viertelfinale",
+      "kickoff": "2026-07-10T21:00:00+02:00",
+      "home": {
+        "name": "Spanien",
+        "flag": "🇪🇸"
+      },
+      "away": {
+        "name": "Belgien",
+        "flag": "🇧🇪"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "confidence": 66,
+        "expectedStats": {
+          "possession": {
+            "home": 60,
+            "away": 40
+          },
+          "shots": {
+            "home": 18,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 3
+          }
+        },
+        "reasoning": "Spanien hat als einziges Team im Feld noch kein Gegentor kassiert – fünf Spiele, 0 Gegentreffer, im Schnitt nur ca. 0,30 xG zugelassen bei ca. 1,95 xG im eigenen Angriff (zuletzt 1,68 zu 0,63 xG beim 1:0 gegen Portugal). Belgien ist offensiv zwar ähnlich stark (Schnitt ca. 2,11 xG), aber hinten löchrig: 3,58 xG zugelassen im knappen 3:2-Achtelfinale-Krimi gegen Senegal, im Schnitt ca. 1,23 xG-Gegentore über die letzten fünf Spiele. Die Quote (1.60 für Spanien) und unsere Statistik zeigen beide klar in Richtung Spanien – die stabilste Defensive des Turniers trifft auf die löchrigste unter den verbliebenen Top-Teams."
+      }
+    },
+    {
+      "id": "UyLHmWuh",
+      "group": "Viertelfinale",
+      "kickoff": "2026-07-11T23:00:00+02:00",
+      "home": {
+        "name": "Norwegen",
+        "flag": "🇳🇴"
+      },
+      "away": {
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 56,
+        "expectedStats": {
+          "possession": {
+            "home": 45,
+            "away": 55
+          },
+          "shots": {
+            "home": 10,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 6
+          },
+          "corners": {
+            "home": 4,
+            "away": 6
+          }
+        },
+        "reasoning": "England hat über fünf Spiele die deutlich stabilere Bilanz: ca. 1,98 xG im Schnitt erzielt bei nur ca. 0,84 xG zugelassen. Norwegen dagegen lebt von Effizienz statt Kontrolle – gegen Brasilien reichten im Achtelfinale nur 1,06 xG (gegen 2,62 zugelassene) zum 2:1-Erfolg, ein klarer Fall von Chancenverwertung statt Dominanz, angeführt von Haaland. England wiederum wackelte zuletzt gegen Mexiko (3:2 trotz schwächerer xG-Bilanz, 1,61 zu 1,88). Die Quote (1.84 für England) und die Grundtendenz unserer Statistik decken sich: England favorisiert dank der besseren Gesamtbilanz, aber Haalands Norwegen hat bereits zweimal in Folge gegen den Erwartungswert gewonnen – ein knappes Ergebnis ist wahrscheinlich."
       }
     }
   ]
