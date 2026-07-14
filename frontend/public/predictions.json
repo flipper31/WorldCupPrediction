@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T09:25:36.040Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 7.7.2026)",
+  "generatedAt": "2026-07-14T23:02:20.411Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 14.7.2026)",
   "demo": false,
   "matches": [
     {
@@ -5993,6 +5993,31 @@
           }
         },
         "reasoning": "Argentinien dominiert das Turnier statistisch: Schnitt ca. 2,0 xG erzielt, nur ca. 0,52 xG zugelassen über vier Spiele, ungeschlagen. Selbst der knappe 3:2-Erfolg gegen Kap Verde war klar überlegen (2,26 zu 0,47 xG, 64% Ballbesitz, 22 Schüsse). Ägypten dagegen kam nur per Elfmeterkrimi (2-4 n.E.) gegen ein schwächeres Australien weiter und leckt defensiv fast so viel xG wie es selbst erzeugt (Schnitt je ca. 1,3). Die Quote (1.36) und unsere Analyse decken sich: klarer Favorit Argentinien, aber Ägypten trifft in jedem Spiel — daher kein zu Null."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 64,
+            "away": 36
+          },
+          "shots": {
+            "home": 19,
+            "away": 5
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -6032,6 +6057,32 @@
           }
         },
         "reasoning": "Die Schweiz erzeugt im Schnitt die meisten xG des Feldes (ca. 2,2), verwertet sie aber schwach (3,20 xG reichten gegen Katar nur zu einem 1:1) und zeigte gegen Kanada defensive Lücken (1,66 xG zugelassen beim knappen 2:1). Kolumbien ist zwar offensiv weniger effektstark (Schnitt ca. 1,58 xG), aber deutlich effizienter und stabiler hinten (nur ca. 0,68 xG zugelassen im Schnitt) — bestes Spiel zuletzt im Sechzehntelfinale gegen Ghana (2,04 zu 0,27 xG). Die Buchmacher sehen Kolumbien leicht vorn (2.24 zu 3.50), unsere Statistik bestätigt das tendenziell über die konstantere Defensive, auch wenn die Schweizer Chancenflut das Spiel offenhält."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "status": "AFTER EXTRA TIME",
+        "stats": {
+          "possession": {
+            "home": 53,
+            "away": 47
+          },
+          "shots": {
+            "home": 7,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        },
+        "penalties": "4-3"
       }
     },
     {
@@ -6135,6 +6186,31 @@
           }
         },
         "reasoning": "Frankreich ist über fünf Turnierspiele das statistisch stärkste Team im Feld: Schnitt ca. 2,1 xG erzielt (u.a. 3,24 im Sechzehntelfinale gegen Schweden) bei nur ca. 0,74 xG zugelassen, zuletzt ein souveränes 1:0 im Achtelfinale gegen Paraguay (1,46 zu 0,13 xG). Marokko hat sich dagegen durch Resilienz statt Dominanz durchgesetzt — Remis gegen Brasilien und die Niederlande, im Achtelfinale ein 3:0 gegen Kanada trotz niedrigerer xG-Werte (0,82 zu 0,84) als Chancenverwerter. Die Quote (1.56) und unsere Statistik zeigen Frankreich klar vorn, aber Marokkos Fähigkeit, gegen große Teams Punkte zu holen, macht ein Gegentor wahrscheinlich."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 22,
+            "away": 5
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -6174,6 +6250,31 @@
           }
         },
         "reasoning": "Spanien hat als einziges Team im Feld noch kein Gegentor kassiert – fünf Spiele, 0 Gegentreffer, im Schnitt nur ca. 0,30 xG zugelassen bei ca. 1,95 xG im eigenen Angriff (zuletzt 1,68 zu 0,63 xG beim 1:0 gegen Portugal). Belgien ist offensiv zwar ähnlich stark (Schnitt ca. 2,11 xG), aber hinten löchrig: 3,58 xG zugelassen im knappen 3:2-Achtelfinale-Krimi gegen Senegal, im Schnitt ca. 1,23 xG-Gegentore über die letzten fünf Spiele. Die Quote (1.60 für Spanien) und unsere Statistik zeigen beide klar in Richtung Spanien – die stabilste Defensive des Turniers trifft auf die löchrigste unter den verbliebenen Top-Teams."
+      },
+      "actual": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 68,
+            "away": 32
+          },
+          "shots": {
+            "home": 17,
+            "away": 5
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     },
     {
@@ -6213,6 +6314,198 @@
           }
         },
         "reasoning": "England hat über fünf Spiele die deutlich stabilere Bilanz: ca. 1,98 xG im Schnitt erzielt bei nur ca. 0,84 xG zugelassen. Norwegen dagegen lebt von Effizienz statt Kontrolle – gegen Brasilien reichten im Achtelfinale nur 1,06 xG (gegen 2,62 zugelassene) zum 2:1-Erfolg, ein klarer Fall von Chancenverwertung statt Dominanz, angeführt von Haaland. England wiederum wackelte zuletzt gegen Mexiko (3:2 trotz schwächerer xG-Bilanz, 1,61 zu 1,88). Die Quote (1.84 für England) und die Grundtendenz unserer Statistik decken sich: England favorisiert dank der besseren Gesamtbilanz, aber Haalands Norwegen hat bereits zweimal in Folge gegen den Erwartungswert gewonnen – ein knappes Ergebnis ist wahrscheinlich."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "AFTER EXTRA TIME",
+        "stats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 13,
+            "away": 14
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    },
+    {
+      "id": "Wv4IS6zg",
+      "group": "Viertelfinale",
+      "kickoff": "2026-07-12T03:00:00+02:00",
+      "home": {
+        "name": "Argentinien",
+        "flag": "🇦🇷"
+      },
+      "away": {
+        "name": "Schweiz",
+        "flag": "🇨🇭"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "confidence": 62,
+        "expectedStats": {
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shots": {
+            "home": 18,
+            "away": 8
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 3
+          },
+          "corners": {
+            "home": 6,
+            "away": 3
+          }
+        },
+        "reasoning": "Argentinien liefert im Turnierverlauf konstant die stärksten xG-Werte aller Teams (Schnitt ~2,2 xG über die ersten fünf Partien, u.a. 2,84 im Achtelfinale gegen Ägypten) und lässt defensiv kaum etwas zu (Schnitt unter 0,6 xG gegen). Die Schweiz kam zwar solide durchs Achtelfinale (0:0 n.V. gegen Kolumbien, Sieg im Elfmeterschießen), das Offensivspiel ist dabei aber eingeschlafen (nur 0,38 xG gegen Kolumbien). Gegen die spielstärkste Offensive des Turniers dürfte das nicht reichen — Argentinien als klarer Favorit."
+      },
+      "actual": {
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "status": "AFTER EXTRA TIME",
+        "stats": {
+          "possession": {
+            "home": 59,
+            "away": 41
+          },
+          "shots": {
+            "home": 22,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    },
+    {
+      "id": "pU0PQ9nR",
+      "group": "Halbfinale",
+      "kickoff": "2026-07-14T21:00:00+02:00",
+      "home": {
+        "name": "Frankreich",
+        "flag": "🇫🇷"
+      },
+      "away": {
+        "name": "Spanien",
+        "flag": "🇪🇸"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 47,
+        "expectedStats": {
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shots": {
+            "home": 15,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 5
+          },
+          "corners": {
+            "home": 5,
+            "away": 5
+          }
+        },
+        "reasoning": "Frankreich hat die explosivste Offensive des Turniers (Schnitt ~2,4 xG, zuletzt 3,68 xG im 2:0 gegen Marokko) und deshalb im direkten Vergleich der Offensivzahlen leicht die Nase vorn. Der entscheidende Gegenpunkt: Spanien besitzt mit Abstand die beste Defensive aller Halbfinalisten (Schnitt nur ~0,31 xG gegen über sechs Spiele, u.a. gegen durchaus offensivstarke Gegner wie Belgien und Portugal fast unbezwungen). Die Quoten sind mit 2,58/2,92/3,10 nahezu ausgeglichen — das deckt sich mit der eigenen Einschätzung eines knappen Spiels, in dem Frankreichs Chancenproduktion leicht überwiegt, Spaniens Defensivstabilität das Ergebnis aber offen hält."
+      },
+      "actual": {
+        "score": {
+          "home": 0,
+          "away": 2
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shots": {
+            "home": 10,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    },
+    {
+      "id": "pKVyGJbD",
+      "group": "Halbfinale",
+      "kickoff": "2026-07-15T21:00:00+02:00",
+      "home": {
+        "name": "England",
+        "flag": "🏴"
+      },
+      "away": {
+        "name": "Argentinien",
+        "flag": "🇦🇷"
+      },
+      "prediction": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "confidence": 54,
+        "expectedStats": {
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "shots": {
+            "home": 12,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 7
+          },
+          "corners": {
+            "home": 4,
+            "away": 6
+          }
+        },
+        "reasoning": "Über den gesamten Turnierverlauf (6 Spiele) hat Argentinien die klar besseren Grunddaten: xG-Schnitt +1,56 pro Spiel (2,13 für, 0,57 gegen) gegenüber Englands +1,10 (1,87 für, 0,77 gegen). Besonders im Viertelfinale zeigte England Schwächen — gegen Norwegen wurde mühsam nach Verlängerung gewonnen, während Argentinien die Schweiz mit 3:1 dominierte. Der Wettmarkt sieht die Partie mit Quoten von 2,78/2,84/2,92 nahezu als Münzwurf mit hauchdünnem Heimvorteil für England — das bildet Argentiniens tatsächliche Turnierdominanz nicht ausreichend ab. Eigene Einschätzung: knapper, aber verdienter Sieg für Argentinien."
       }
     }
   ]
