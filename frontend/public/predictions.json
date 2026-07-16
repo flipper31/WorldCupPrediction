@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T23:02:20.411Z",
-  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 14.7.2026)",
+  "generatedAt": "2026-07-16T00:00:00.000Z",
+  "model": "Claude (Datenbasis: Flashscore-Scrape inkl. Wettquoten + Form, 16.7.2026)",
   "demo": false,
   "matches": [
     {
@@ -6506,6 +6506,109 @@
           }
         },
         "reasoning": "Über den gesamten Turnierverlauf (6 Spiele) hat Argentinien die klar besseren Grunddaten: xG-Schnitt +1,56 pro Spiel (2,13 für, 0,57 gegen) gegenüber Englands +1,10 (1,87 für, 0,77 gegen). Besonders im Viertelfinale zeigte England Schwächen — gegen Norwegen wurde mühsam nach Verlängerung gewonnen, während Argentinien die Schweiz mit 3:1 dominierte. Der Wettmarkt sieht die Partie mit Quoten von 2,78/2,84/2,92 nahezu als Münzwurf mit hauchdünnem Heimvorteil für England — das bildet Argentiniens tatsächliche Turnierdominanz nicht ausreichend ab. Eigene Einschätzung: knapper, aber verdienter Sieg für Argentinien."
+      },
+      "actual": {
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "FINISHED",
+        "stats": {
+          "possession": {
+            "home": 36,
+            "away": 64
+          },
+          "shots": {
+            "home": 5,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": null,
+            "away": null
+          },
+          "corners": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    },
+    {
+      "id": "b9l0F3Bj",
+      "group": "Spiel um Platz 3",
+      "kickoff": "2026-07-18T23:00:00+02:00",
+      "home": {
+        "name": "Frankreich",
+        "flag": "🇫🇷"
+      },
+      "away": {
+        "name": "England",
+        "flag": "🏴"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 55,
+        "expectedStats": {
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shots": {
+            "home": 14,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 4
+          },
+          "corners": {
+            "home": 6,
+            "away": 4
+          }
+        },
+        "reasoning": "Beide Halbfinalisten wurden vom jeweiligen Finalisten klar dominiert — Frankreich von Spanien (nur 0,31 xG, 0 großen Chancen, 10 Schüsse), England von Argentinien (0,52 xG, 5 Schüsse, 36% Ballbesitz). Über den gesamten Turnierverlauf war Frankreichs Offensive aber deutlich konstanter: 3,68 xG im Viertelfinale gegen Marokko, 3,24 xG gegen Schweden, 2,67 gegen Irak — Englands Weg war dagegen holpriger, mit einem statistisch klar verlorenen Achtelfinale gegen Mexiko (6 Schüsse gegen 20, 33% Ballbesitz, dennoch 3:2 gewonnen) und einer Verlängerung gegen Norwegen. Der Wettmarkt sieht Frankreich mit 1,88/4,15/3,60 als klaren Favoriten, was sich mit den Grunddaten deckt — Spiele um Platz 3 sind wegen geringer Motivation und Rotation aber grundsätzlich schwerer einzuschätzen, daher nur mittlere Confidence."
+      }
+    },
+    {
+      "id": "UgbUKPmT",
+      "group": "Finale",
+      "kickoff": "2026-07-19T21:00:00+02:00",
+      "home": {
+        "name": "Spanien",
+        "flag": "🇪🇸"
+      },
+      "away": {
+        "name": "Argentinien",
+        "flag": "🇦🇷"
+      },
+      "prediction": {
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "confidence": 58,
+        "expectedStats": {
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shots": {
+            "home": 16,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 4
+          },
+          "corners": {
+            "home": 7,
+            "away": 4
+          }
+        },
+        "reasoning": "Spanien hat im gesamten Turnier nur ein einziges Gegentor zugelassen (1:2-Sieg gegen Belgien im Achtelfinale) und im Halbfinale gegen das bis dahin ebenfalls starke Frankreich dessen xG auf lächerliche 0,31 gedrückt (2:0). Argentinien ist offensiv genauso stark (2,13 xG-Schnitt), aber defensiv deutlich löchriger — in 6 von 7 Spielen wurde mindestens ein Gegentor kassiert, inklusive zweier Verlängerungen (Kap Verde, Schweiz). Der Wettmarkt sieht Spanien mit 2,22/3,15/3,45 als leichten Favoriten — das deckt sich mit der eigenen Analyse: Spaniens defensive Stabilität und Ballkontrolle sollten im Finale den Ausschlag geben, auch wenn Argentiniens individuelle Klasse (u.a. im Umschaltspiel) für ein Gegentor gut sein dürfte. Enges, aber verdientes Finale für Spanien."
       }
     }
   ]
