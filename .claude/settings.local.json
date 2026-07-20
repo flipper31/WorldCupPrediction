@@ -37,7 +37,23 @@
       "mcp__9100ea87-9bdb-41ea-a5ff-df91a322a6f8__remove_background",
       "Bash(node -e ' *)",
       "mcp__9100ea87-9bdb-41ea-a5ff-df91a322a6f8__models_explore",
-      "Bash(curl -s -o /dev/null -w \"Seite: %{http_code}\\\\n\" http://192.168.178.135:8181/)"
+      "Bash(curl -s -o /dev/null -w \"Seite: %{http_code}\\\\n\" http://192.168.178.135:8181/)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(npm run *)",
+      "Bash(node \"C:\\\\Users\\\\phill\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-phill-WorldCupPrediction\\\\c7104cbd-b1b7-42c3-8ebd-b9df7d0b8f5a\\\\scratchpad\\\\update.js\")",
+      "Bash(node -e \"JSON.parse\\(require\\('fs'\\).readFileSync\\('frontend/public/predictions.json','utf8'\\)\\); console.log\\('valid JSON'\\)\")",
+      "Bash(tar -czf worldcup-dist.tar.gz -C frontend/dist .)",
+      "Bash(scp worldcup-dist.tar.gz root@192.168.178.252:/tmp/)",
+      "Bash(ssh root@192.168.178.252 \"pct exec 110 -- bash -c 'tar --no-same-owner -xzf /tmp/worldcup-dist.tar.gz -C /var/www/worldcup'\")",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(mkdir -p \"C:/Users/phill/AppData/Local/Temp/claude/C--Users-phill-WorldCupPrediction/1867d19f-95b5-4096-a4b1-657828309f1e/scratchpad\")",
+      "Bash(node \"C:/Users/phill/AppData/Local/Temp/claude/C--Users-phill-WorldCupPrediction/1867d19f-95b5-4096-a4b1-657828309f1e/scratchpad/update.js\")",
+      "Bash(node scratch_update.js)",
+      "Bash(rm scratch_update.js)",
+      "Bash(scp -o StrictHostKeyChecking=accept-new worldcup-dist.tar.gz root@192.168.178.252:/tmp/)"
     ]
   }
 }

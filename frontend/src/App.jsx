@@ -47,6 +47,111 @@ const HIT_LABEL = {
   daneben: '❌ Daneben',
 }
 
+// Punkte-Schema (Kicktipp-Logik): exakt = 4, richtige Tendenz = 2, daneben = 0
+const POINTS = { exakt: 4, tendenz: 2, daneben: 0 }
+
+function StatsSummary({ finished }) {
+  const total = finished.length
+  const rows = finished.map((m) => hitType(m.prediction, m.actual))
+  const exakt = rows.filter((r) => r === 'exakt').length
+  const tendenz = rows.filter((r) => r === 'tendenz').length
+  const daneben = rows.filter((r) => r === 'daneben').length
+  const treffer = exakt + tendenz
+  const quote = Math.round((treffer / total) * 100)
+  const punkte = finished.reduce((sum, m) => sum + POINTS[hitType(m.prediction, m.actual)], 0)
+  const maxPunkte = total * POINTS.exakt
+
+  // Confidence-Kalibrierung: waren sichere Tipps auch erfolgreicher?
+  const buckets = [
+    { label: 'Sehr sicher (≥ 65%)', test: (c) => c >= 65 },
+    { label: 'Sicher (55–64%)', test: (c) => c >= 55 && c < 65 },
+    { label: 'Unsicher (< 55%)', test: (c) => c < 55 },
+  ].map((b) => {
+    const ms = finished.filter((m) => b.test(m.prediction.confidence))
+    const hit = ms.filter((m) => hitType(m.prediction, m.actual) !== 'daneben').length
+    return { ...b, n: ms.length, quote: ms.length ? Math.round((hit / ms.length) * 100) : null }
+  })
+
+  // Phasen-Vergleich Gruppenphase vs. K.o.-Runde
+  const phasen = [
+    { label: 'Gruppenphase', test: (g) => g.startsWith('Gruppe') },
+    { label: 'K.-o.-Runde', test: (g) => !g.startsWith('Gruppe') },
+  ].map((p) => {
+    const ms = finished.filter((m) => p.test(m.group))
+    const hit = ms.filter((m) => hitType(m.prediction, m.actual) !== 'daneben').length
+    return { ...p, n: ms.length, quote: ms.length ? Math.round((hit / ms.length) * 100) : null }
+  })
+
+  return (
+    <section className="stats-summary">
+      <h2>📊 Wie gut war die KI?</h2>
+      <p className="stats-sub">Auswertung über alle {total} getippten Spiele der WM 2026</p>
+
+      <div className="stat-tiles">
+        <div className="tile tile-accent">
+          <span className="tile-num">{quote}%</span>
+          <span className="tile-label">Trefferquote</span>
+          <span className="tile-sub">exakt + Tendenz</span>
+        </div>
+        <div className="tile">
+          <span className="tile-num">{exakt}</span>
+          <span className="tile-label">🎯 Exakt</span>
+          <span className="tile-sub">{Math.round((exakt / total) * 100)}% der Spiele</span>
+        </div>
+        <div className="tile">
+          <span className="tile-num">{tendenz}</span>
+          <span className="tile-label">✅ Tendenz</span>
+          <span className="tile-sub">richtiger Sieger</span>
+        </div>
+        <div className="tile">
+          <span className="tile-num">{daneben}</span>
+          <span className="tile-label">❌ Daneben</span>
+          <span className="tile-sub">{Math.round((daneben / total) * 100)}% der Spiele</span>
+        </div>
+      </div>
+
+      <div className="points-bar">
+        <div className="points-head">
+          <span><strong>{punkte}</strong> von {maxPunkte} möglichen Punkten</span>
+          <span className="points-scheme">4 = exakt · 2 = Tendenz · 0 = daneben</span>
+        </div>
+        <div className="points-track">
+          <div className="points-fill" style={{ width: `${(punkte / maxPunkte) * 100}%` }} />
+        </div>
+      </div>
+
+      <div className="stats-cols">
+        <div className="stats-col">
+          <h3>Selbsteinschätzung im Check</h3>
+          <p className="col-hint">Waren Tipps mit hoher Sicherheit auch erfolgreicher?</p>
+          {buckets.map((b) => (
+            <div key={b.label} className="bar-row">
+              <span className="bar-label">{b.label}</span>
+              <div className="bar-track">
+                <div className="bar-fill" style={{ width: `${b.quote ?? 0}%` }} />
+              </div>
+              <span className="bar-val">{b.quote != null ? `${b.quote}%` : '–'} <span className="bar-n">({b.n})</span></span>
+            </div>
+          ))}
+        </div>
+        <div className="stats-col">
+          <h3>Gruppenphase vs. K.o.</h3>
+          <p className="col-hint">Wo lag die KI häufiger richtig?</p>
+          {phasen.map((p) => (
+            <div key={p.label} className="bar-row">
+              <span className="bar-label">{p.label}</span>
+              <div className="bar-track">
+                <div className="bar-fill" style={{ width: `${p.quote ?? 0}%` }} />
+              </div>
+              <span className="bar-val">{p.quote != null ? `${p.quote}%` : '–'} <span className="bar-n">({p.n})</span></span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
 function MatchCard({ match }) {
   const [expanded, setExpanded] = useState(false)
   const { home, away, prediction, actual, kickoff, group } = match
@@ -155,7 +260,7 @@ export default function App() {
         <h1>⚽ WM 2026 AI Predictions</h1>
         <p className="subtitle">
           Spielprognosen mit KI-Begründung — basierend auf Team-Statistiken wie
-          Torschüssen, Ballbesitz und Form.
+          Torschüssen, Ballbesitz und Form. <strong>Turnier beendet — Spanien ist Weltmeister 🇪🇸🏆</strong>
         </p>
         {data.demo && (
           <div className="demo-banner">
@@ -172,6 +277,8 @@ export default function App() {
           </div>
         )}
       </header>
+
+      {finished.length >= 10 && <StatsSummary finished={finished} />}
 
       <main>
         {data.matches.map((m) => (
